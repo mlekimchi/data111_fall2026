@@ -1,0 +1,533 @@
+,speciesCode,comName,sciName,locId,locName,obsDt,howMany,lat,lng,obsValid,obsReviewed,locationPrivate,subId
+0,goleag,Golden Eagle,Aquila chrysaetos,L20113337,Honey Run Rd--Skyway to BCEP,2024-01-12 15:32,1.0,39.7095343,-121.7525673,True,False,False,S158743047
+1,goleag,Golden Eagle,Aquila chrysaetos,L1899682,Rangeland Rd.,2024-01-12 14:52,2.0,33.0471626,-116.9361269,True,False,False,S158747185
+2,goleag,Golden Eagle,Aquila chrysaetos,L1315241,Willms Rd.--pond,2024-01-12 14:36,1.0,37.784554,-120.619689,True,False,False,S158734574
+3,goleag,Golden Eagle,Aquila chrysaetos,L9757179,Stanford University--museum area,2024-01-12 14:25,1.0,37.43293,-122.1702111,True,False,False,S158736215
+4,goleag,Golden Eagle,Aquila chrysaetos,L11805681,Centerville Rd. marsh,2024-01-12 14:04,2.0,39.7416922,-121.6961672,True,False,False,S158743388
+5,goleag,Golden Eagle,Aquila chrysaetos,L3239319,Charter Oak Dr.,2024-01-12 13:39,1.0,36.3645848,-119.1674298,True,False,False,S158733999
+6,goleag,Golden Eagle,Aquila chrysaetos,L28751038,"4050 Black Rd, Santa Maria US-CA 34.87761, -120.51204",2024-01-12 12:25,1.0,34.877605,-120.512037,True,False,True,S158724700
+7,goleag,Golden Eagle,Aquila chrysaetos,L28751405,"Unnamed Road, California, US (35.044, -119.605)",2024-01-12 12:16,2.0,35.0436941,-119.605246,True,False,True,S158726642
+8,goleag,Golden Eagle,Aquila chrysaetos,L28751025,"Silver Gate —Soda Lake Rd, Santa Margarita US-CA 35.11682, -119.74377",2024-01-12 12:00,2.0,35.116819,-119.743768,True,False,True,S158724643
+9,goleag,Golden Eagle,Aquila chrysaetos,L1309102,Mines Rd.--MP 12.67 (ALA Co.),2024-01-12 11:50,1.0,37.56834,-121.58154,True,False,False,S158742975
+10,goleag,Golden Eagle,Aquila chrysaetos,L873846,Pinnacles NP--Old Pinnacles Trail,2024-01-12 10:46,1.0,36.5008053,-121.1795425,True,False,False,S158746845
+11,goleag,Golden Eagle,Aquila chrysaetos,L4534648,Quien Sabe Rd.--Santa Anita Rd. to end of public road,2024-01-12 10:36,3.0,36.813339,-121.2341094,True,False,False,S158738602
+12,goleag,Golden Eagle,Aquila chrysaetos,L473074,Estero Bluffs SP,2024-01-12 10:35,1.0,35.4484114,-120.9437799,True,False,False,S158724639
+13,goleag,Golden Eagle,Aquila chrysaetos,L370800,Alum Rock Park,2024-01-12 10:16,1.0,37.3950846,-121.8036175,True,False,False,S158737533
+14,goleag,Golden Eagle,Aquila chrysaetos,L1005492,Harmony Headlands SP,2024-01-12 09:56,1.0,35.4748896,-121.0018122,True,False,False,S158740502
+15,goleag,Golden Eagle,Aquila chrysaetos,L2427823,Pinnacles NP--Visitor Center,2024-01-12 09:34,2.0,36.4937287,-121.1462805,True,False,False,S158746819
+16,goleag,Golden Eagle,Aquila chrysaetos,L471741,Villa Creek--Estero Bluffs State Park,2024-01-12 09:22,1.0,35.4599561,-120.9688341,True,False,False,S158722997
+17,goleag,Golden Eagle,Aquila chrysaetos,L514277,Santa Margarita Lake,2024-01-12 09:15,1.0,35.3291313,-120.4874811,True,False,False,S158744471
+18,goleag,Golden Eagle,Aquila chrysaetos,L741707,Las Cruzitas Ranch (restricted access),2024-01-12 09:14,1.0,34.6093342,-119.9600601,True,False,False,S158736536
+19,goleag,Golden Eagle,Aquila chrysaetos,L2516138,Santa Ana Valley Road,2024-01-12 08:39,2.0,36.8110027,-121.279192,True,False,True,S158738567
+20,goleag,Golden Eagle,Aquila chrysaetos,L602497,Carrizo Plain NM (use specific hotspots when available),2024-01-12 07:50,2.0,35.155759,-119.810539,True,False,False,S158748301
+21,goleag,Golden Eagle,Aquila chrysaetos,L2776216,Sedgwick Reserve (restricted access),2024-01-12 07:30,1.0,34.692571,-120.0405478,True,False,False,S158740087
+22,goleag,Golden Eagle,Aquila chrysaetos,L163561,San Jacinto Wildlife Area,2024-01-12 07:10,1.0,33.8854488,-117.104104,True,False,False,S158739205
+23,goleag,Golden Eagle,Aquila chrysaetos,L9608002,"Hayward, Garin East-Walpert Ridge",2024-01-11 15:10,2.0,37.633,-121.9906,True,False,True,S158699961
+24,goleag,Golden Eagle,Aquila chrysaetos,L353255,Elkhorn Slough Reserve (NERR),2024-01-11 15:00,1.0,36.8182308,-121.7364764,True,False,False,S158678955
+25,goleag,Golden Eagle,Aquila chrysaetos,L850039,Little Peachtree middle (mp 12.5 to 5; <5 mi lists preferred),2024-01-11 14:55,1.0,36.1478557,-120.7589722,True,False,False,S158679115
+26,goleag,Golden Eagle,Aquila chrysaetos,L13468483,Little Peachtree north (mp 14 to 12.5; view from road only),2024-01-11 14:19,1.0,36.1880203,-120.8096871,True,False,False,S158679105
+27,goleag,Golden Eagle,Aquila chrysaetos,L28740135,"El Camino Real, Santa Margarita US-CA 35.38326, -120.62753",2024-01-11 13:50,1.0,35.383262,-120.627526,True,False,True,S158663336
+28,goleag,Golden Eagle,Aquila chrysaetos,L5956308,Bear Valley Rd.--northern grassland,2024-01-11 13:35,1.0,39.1207451,-122.4281044,True,False,False,S158675378
+29,goleag,Golden Eagle,Aquila chrysaetos,L13468576,"Lonoak (town and Hwy 25 north to SBT border, in MTY Co.)",2024-01-11 13:15,1.0,36.2788856,-120.940322,True,False,False,S158679075
+30,goleag,Golden Eagle,Aquila chrysaetos,L28739331,"Cabrillo Hwy S, San Luis Obispo US-CA 35.33302, -120.75107",2024-01-11 12:56,1.0,35.333024,-120.751074,True,False,True,S158659037
+31,goleag,Golden Eagle,Aquila chrysaetos,L279253,Lake Cunningham,2024-01-11 12:53,1.0,37.3354711,-121.8062038,True,False,False,S158676811
+32,goleag,Golden Eagle,Aquila chrysaetos,L497666,Bridgeport Reservoir,2024-01-11 12:21,1.0,38.2977508,-119.2256927,True,False,False,S158657200
+33,goleag,Golden Eagle,Aquila chrysaetos,L22087030,Ridgemark Golf Club-(no public access),2024-01-11 12:20,2.0,36.8131642,-121.3651707,True,False,False,S158670881
+34,goleag,Golden Eagle,Aquila chrysaetos,L13512835,Lewis Creek Road (MTY Co.),2024-01-11 12:20,2.0,36.2973151,-120.9012517,True,False,False,S158679083
+35,goleag,Golden Eagle,Aquila chrysaetos,L7181932,Lake Yosemite Co. Park,2024-01-11 12:06,1.0,37.37125,-120.42867,True,False,False,S158669023
+36,goleag,Golden Eagle,Aquila chrysaetos,L1458019,Sierra Rd. summit,2024-01-11 11:15,2.0,37.4094848,-121.8025822,True,False,False,S158684386
+37,goleag,Golden Eagle,Aquila chrysaetos,L5956302,Bear Valley Rd.--southern riparian,2024-01-11 11:15,1.0,39.0332395,-122.4050889,True,False,False,S158675258
+38,goleag,Golden Eagle,Aquila chrysaetos,L839998,Lonoak Road (San Lorenzo bridge to Lewis Cr. bridge in SBT Co.),2024-01-11 10:53,4.0,36.2943732,-120.983855,True,False,False,S158679045
+39,goleag,Golden Eagle,Aquila chrysaetos,L5708156,Hulett Ranch (Private),2024-01-11 10:30,1.0,39.1139793,-120.9788835,True,False,True,S158671613
+40,goleag,Golden Eagle,Aquila chrysaetos,L2234234,Lonoak Road (mp 7 to San Lorenzo River bridge in MTY Co.),2024-01-11 10:28,1.0,36.269028,-120.994507,True,False,False,S158679031
+41,goleag,Golden Eagle,Aquila chrysaetos,L4011963,Leesville Rd.,2024-01-11 10:13,3.0,39.1574094,-122.3905892,True,False,False,S158676842
+42,goleag,Golden Eagle,Aquila chrysaetos,L373919,Byron Airport Preserve,2024-01-11 09:54,2.0,37.8301921,-121.6184807,True,False,False,S158651134
+43,goleag,Golden Eagle,Aquila chrysaetos,L28739884,"Eller Lane, Scott Valley",2024-01-11 08:55,1.0,41.5186014,-122.8627426,True,False,True,S158662542
+44,goleag,Golden Eagle,Aquila chrysaetos,L417839,Los Alamos Park,2024-01-11 08:45,1.0,34.7363931,-120.2791357,True,False,False,S158645864
+45,goleag,Golden Eagle,Aquila chrysaetos,L422795,Meiss Rd.,2024-01-11 07:26,1.0,38.4467324,-121.0849142,True,False,False,S158662376
+46,goleag,Golden Eagle,Aquila chrysaetos,L815817,Frank G. Bonelli RP/Puddingstone Reservoir and vicinity,2024-01-11 07:20,1.0,34.0870104,-117.8050125,True,False,False,S158670248
+47,goleag,Golden Eagle,Aquila chrysaetos,L2934827,Bitter Creek NWR--sign overlook,2024-01-10 13:59,2.0,34.9041594,-119.3766595,True,False,False,S158597577
+48,goleag,Golden Eagle,Aquila chrysaetos,L2420919,Arroyo Laguna,2024-01-10 11:55,1.0,35.6515286,-121.2196684,True,False,False,S158607922
+49,goleag,Golden Eagle,Aquila chrysaetos,L12969131,"Lonoak Road, King City, California, US (36.284, -120.989)",2024-01-10 11:54,2.0,36.2837502,-120.9886621,True,False,True,S158603747
+50,goleag,Golden Eagle,Aquila chrysaetos,L28726324,"716-660 Cummings Road, Janesville, California, US (40.315, -120.433)",2024-01-10 11:40,1.0,40.3146587,-120.4327159,True,False,True,S158585696
+51,goleag,Golden Eagle,Aquila chrysaetos,L28725839,"Cabrillo Hwy, San Simeon US-CA 35.63586, -121.16517",2024-01-10 11:05,1.0,35.63586,-121.165168,True,False,True,S158583279
+52,goleag,Golden Eagle,Aquila chrysaetos,L28727892,"Sacramento National Wildlife Refuge, Willows US-CA 39.42633, -122.18886",2024-01-10 10:17,1.0,39.426328,-122.18886,True,False,True,S158594434
+53,goleag,Golden Eagle,Aquila chrysaetos,L28587327,"20496–20746 Marsh Creek Rd, Brentwood US-CA 37.87234, -121.72865",2024-01-10 08:25,2.0,37.872339,-121.728646,True,False,True,S158634347
+54,goleag,Golden Eagle,Aquila chrysaetos,L7073101,Heritage Ranch: Nacimiento River Trail,2024-01-10 08:00,2.0,35.7588909,-120.8746623,True,False,True,S158589454
+55,goleag,Golden Eagle,Aquila chrysaetos,L778646,Zaca Station Rd.,2024-01-10 07:39,1.0,34.6916624,-120.1507759,True,False,False,S158571009
+56,goleag,Golden Eagle,Aquila chrysaetos,L5691950,Oberlin Road,2024-01-09 16:05,1.0,41.7112391,-122.6045465,True,False,True,S158545872
+57,goleag,Golden Eagle,Aquila chrysaetos,L28719197,"2938-2934 Sage Canyon Road, St. Helena, California, US (38.487, -122.298)",2024-01-09 14:39,2.0,38.4874473,-122.2981287,True,False,True,S158545486
+58,goleag,Golden Eagle,Aquila chrysaetos,L10195877,The Caboose Yard List,2024-01-09 14:06,1.0,38.8227785,-122.1908782,True,False,True,S158538951
+59,goleag,Golden Eagle,Aquila chrysaetos,L152122,Palo Alto Baylands,2024-01-09 13:48,1.0,37.459167,-122.10445,True,False,False,S158540864
+60,goleag,Golden Eagle,Aquila chrysaetos,L28717081,"3290 Indian Oaks Drive, Lincoln, California, US (38.876, -121.238)",2024-01-09 13:07,1.0,38.8758373,-121.2380613,True,False,True,S158532389
+61,goleag,Golden Eagle,Aquila chrysaetos,L16987822,Soda Lake area (private; view from Hwy 129 only),2024-01-09 12:45,1.0,36.9033707,-121.6063967,True,False,False,S158549015
+62,goleag,Golden Eagle,Aquila chrysaetos,L28242634,Cache Creek Regional Park--Upper Site,2024-01-09 12:09,,38.9228919,-122.3281717,True,False,False,S158682765
+63,goleag,Golden Eagle,Aquila chrysaetos,L564717,Burris Ln. pond,2024-01-09 12:03,2.0,39.2779124,-123.066659,True,False,False,S158533673
+64,goleag,Golden Eagle,Aquila chrysaetos,L1484165,Paris Valley Rd.--abandoned ranch vicinity,2024-01-09 11:35,1.0,36.0256903,-120.9508448,True,False,False,S158526568
+65,goleag,Golden Eagle,Aquila chrysaetos,L13323279,Ramona Grasslands Preserve,2024-01-09 09:45,2.0,33.0332761,-116.9505358,True,False,True,S158549372
+66,goleag,Golden Eagle,Aquila chrysaetos,L918465,Santa Teresa County Park,2024-01-09 09:03,1.0,37.2122904,-121.7908287,True,False,False,S158524827
+67,goleag,Golden Eagle,Aquila chrysaetos,L958468,Success Lake--Gill Cove/Tule R. inflow,2024-01-09 08:45,1.0,36.0995429,-118.9068767,True,False,False,S158525181
+68,goleag,Golden Eagle,Aquila chrysaetos,L1006587,Folsom City Park and Rodeo Grounds,2024-01-08 16:34,1.0,38.6836882,-121.1667591,True,False,False,S158479664
+69,goleag,Golden Eagle,Aquila chrysaetos,L2087307,Quiota Creek (SBA Co.),2024-01-08 15:46,1.0,34.5623967,-120.088377,True,False,False,S158477440
+70,goleag,Golden Eagle,Aquila chrysaetos,L27173355,"Bolsa Rd, Hollister US-CA (36.8697,-121.4066)",2024-01-08 15:14,1.0,36.869656,-121.406559,True,False,True,S158475253
+71,goleag,Golden Eagle,Aquila chrysaetos,L850042,Indian Valley Road (upper end to Hare Cyn Rd.),2024-01-08 15:03,1.0,36.0363292,-120.6642151,True,False,False,S158481331
+72,goleag,Golden Eagle,Aquila chrysaetos,L17008075,Mal Paso Canyon (private),2024-01-08 14:14,1.0,36.4824048,-121.9254156,True,False,True,S158482088
+73,goleag,Golden Eagle,Aquila chrysaetos,L837268,Sacramento NWR--Auto Route & Visitor Center,2024-01-08 13:10,1.0,39.4284385,-122.1564999,True,False,False,S158528050
+74,goleag,Golden Eagle,Aquila chrysaetos,L1353198,Turri Road,2024-01-08 12:58,1.0,35.3250835,-120.7948498,True,False,False,S158468596
+75,goleag,Golden Eagle,Aquila chrysaetos,L1756065,Rocks Rd.,2024-01-08 12:55,1.0,36.8548225,-121.589569,True,False,False,S158485709
+76,goleag,Golden Eagle,Aquila chrysaetos,L109411,Pamo Valley,2024-01-08 12:43,1.0,33.1334961,-116.8523828,True,False,False,S158473806
+77,goleag,Golden Eagle,Aquila chrysaetos,L10175630,Arroyo Valley Trail (Santa Rita Road to I-680),2024-01-08 12:43,2.0,37.667831,-121.883428,True,False,False,S158471195
+78,goleag,Golden Eagle,Aquila chrysaetos,L1002301,SSFL,2024-01-08 12:32,1.0,34.2347962,-118.6960316,True,False,True,S158465237
+79,goleag,Golden Eagle,Aquila chrysaetos,L11072251,Bear Valley Rd.--Northern Oak Savannah,2024-01-08 12:29,1.0,39.174419,-122.439294,True,False,False,S158489423
+80,goleag,Golden Eagle,Aquila chrysaetos,L370700,Peachtree Valley (mp 0 to mp 9),2024-01-08 12:27,1.0,36.2352703,-120.8947506,True,False,False,S158481245
+81,goleag,Golden Eagle,Aquila chrysaetos,L11912199,Wasioja Road,2024-01-08 11:55,1.0,34.9620452,-119.7947864,True,False,False,S158490365
+82,goleag,Golden Eagle,Aquila chrysaetos,L1926995,Marguerite Rd.--S Santa Fe Ave. to Pretzer Rd.,2024-01-08 11:03,2.0,37.170675,-120.16,True,False,False,S158457390
+83,goleag,Golden Eagle,Aquila chrysaetos,L470022,Hellyer County Park,2024-01-08 10:41,1.0,37.2810873,-121.8110847,True,False,False,S158461019
+84,goleag,Golden Eagle,Aquila chrysaetos,L5148982,River Ridge Ranch,2024-01-08 09:56,1.0,36.1622358,-118.7998545,True,False,False,S158458685
+85,goleag,Golden Eagle,Aquila chrysaetos,L18585574,VLV Private Residence (Access Restricted),2024-01-08 09:46,1.0,35.263109,-120.710003,True,False,True,S158451297
+86,goleag,Golden Eagle,Aquila chrysaetos,L596210,EBMUD--Valle Vista Staging Area (permit required),2024-01-08 09:25,1.0,37.821243,-122.1393013,True,False,False,S158460131
+87,goleag,Golden Eagle,Aquila chrysaetos,L3305338,Deer Creek Bridge--Latrobe Rd. / Cothrin Ranch Rd.,2024-01-08 09:15,1.0,38.6006395,-121.0226011,True,False,False,S158485215
+88,goleag,Golden Eagle,Aquila chrysaetos,L28701957,"I-5 S, Buttonwillow US-CA 35.34659, -119.32451",2024-01-08 07:59,1.0,35.346586,-119.32451,True,False,True,S158442695
+89,goleag,Golden Eagle,Aquila chrysaetos,L798090,Tolay Regional Park,2024-01-07 16:08,1.0,38.2106695,-122.5126648,True,False,False,S158406222
+90,goleag,Golden Eagle,Aquila chrysaetos,L28718508,Freestone Valley Ford Rd,2024-01-07 16:00,1.0,38.324125,-122.9278849,True,False,True,S158540906
+91,goleag,Golden Eagle,Aquila chrysaetos,L28694799,"CA-58 W, Caliente US-CA (35.2448,-118.5912)",2024-01-07 15:33,1.0,35.244757,-118.591179,True,False,True,S158401912
+92,goleag,Golden Eagle,Aquila chrysaetos,L6338987,Mockingbird Ln,2024-01-07 15:22,1.0,37.396321,-122.138003,True,False,True,S158423490
+93,goleag,Golden Eagle,Aquila chrysaetos,L2176031,Sibley Volcanic Regional Preserve--Round Top Loop Trail,2024-01-07 14:26,2.0,37.8491375,-122.1947908,True,False,False,S158402836
+94,goleag,Golden Eagle,Aquila chrysaetos,L989640,Hudeman Slough,2024-01-07 13:52,1.0,38.2203803,-122.3933011,True,False,False,S158406983
+95,goleag,Golden Eagle,Aquila chrysaetos,L3353744,Sunset Park (ALA Co.),2024-01-07 13:34,1.0,37.6700285,-121.7737849,True,False,False,S158396490
+96,goleag,Golden Eagle,Aquila chrysaetos,L21359444,The Villages,2024-01-07 13:13,1.0,37.2903696,-121.7550379,True,False,True,S158407292
+97,goleag,Golden Eagle,Aquila chrysaetos,L10732249,Airport/Bryant Willow Creek Rd.,2024-01-07 13:02,1.0,41.8298164,-122.4592496,True,False,False,S158393045
+98,goleag,Golden Eagle,Aquila chrysaetos,L576620,Burleigh Murray SP,2024-01-07 12:50,1.0,37.4448897,-122.4027157,True,True,False,S158403390
+99,goleag,Golden Eagle,Aquila chrysaetos,L2474538,Johnson Rd.,2024-01-07 12:01,1.0,38.1931287,-121.0450459,True,False,False,S158387813
+100,goleag,Golden Eagle,Aquila chrysaetos,L687974,W Fork San Gabriel River--Hwy 39 to Cogswell Reservoir,2024-01-07 11:19,1.0,34.2421757,-117.9128265,True,False,False,S158409571
+101,goleag,Golden Eagle,Aquila chrysaetos,L597006,Bethany Reservoir,2024-01-07 11:10,2.0,37.7813319,-121.6165495,True,False,False,S158378712
+102,goleag,Golden Eagle,Aquila chrysaetos,L28689325,"1623–1659 CA-154, Santa Barbara US-CA (34.5793,-119.9869)",2024-01-07 11:09,1.0,34.579274,-119.98685,True,False,True,S158373679
+103,goleag,Golden Eagle,Aquila chrysaetos,L597002,Frick Lake,2024-01-07 11:05,1.0,37.7298599,-121.7114353,True,False,False,S158379217
+104,goleag,Golden Eagle,Aquila chrysaetos,L21509763,Pleasanton Ridge Regional Park--Tyler Ranch,2024-01-07 11:01,2.0,37.6020748,-121.9036102,True,False,False,S158399223
+105,goleag,Golden Eagle,Aquila chrysaetos,L12606812,Kelso Rd. Feedlot,2024-01-07 10:54,2.0,37.7951725,-121.5954192,True,False,False,S158373727
+106,goleag,Golden Eagle,Aquila chrysaetos,L28689976,"1600–1710 Foothill Rd, Maricopa US-CA 34.89795, -119.56354",2024-01-07 10:50,4.0,34.897952,-119.563542,True,False,True,S158376647
+107,goleag,Golden Eagle,Aquila chrysaetos,L1206144,Cuyama Dairy at Foothill Rd (restricted access),2024-01-07 10:46,3.0,34.9002926,-119.5563126,True,False,False,S158376691
+108,goleag,Golden Eagle,Aquila chrysaetos,L1179043,Lake Solano (SOL Co.),2024-01-07 10:28,1.0,38.4887672,-122.0116282,True,False,False,S158387511
+109,goleag,Golden Eagle,Aquila chrysaetos,L470113,Atascadero Lake,2024-01-07 10:20,1.0,35.4646547,-120.6667256,True,False,False,S158368449
+110,goleag,Golden Eagle,Aquila chrysaetos,L14038565,Madera Canal/mile 28(no public access),2024-01-07 10:09,2.0,37.0162632,-119.8461542,True,False,True,S158386119
+111,goleag,Golden Eagle,Aquila chrysaetos,L28154783,"24923–24957 Yokohl Dr, Lindsay US-CA 36.26859, -119.01669",2024-01-07 09:31,1.0,36.268593,-119.016686,True,False,True,S158377451
+112,goleag,Golden Eagle,Aquila chrysaetos,L17120749,"Sacramento National Wildlife Refuge, Willows US-CA 39.42952, -122.18719",2024-01-07 09:26,1.0,39.429517,-122.187193,True,False,True,S158388513
+113,goleag,Golden Eagle,Aquila chrysaetos,L500325,Patterson Pass,2024-01-07 09:07,1.0,37.690947,-121.593378,True,False,False,S158373906
+114,goleag,Golden Eagle,Aquila chrysaetos,L7306766,Santa Barbara Canyon hiking trail,2024-01-07 08:58,1.0,34.7479841,-119.5654864,True,False,False,S158390695
+115,goleag,Golden Eagle,Aquila chrysaetos,L27890316,Dry Canyon,2024-01-07 08:47,1.0,34.7636047,-119.5313648,True,False,False,S158537234
+116,goleag,Golden Eagle,Aquila chrysaetos,L27488909,Kum Bay Xerel,2024-01-07 08:00,1.0,40.4980836,-122.3339385,True,False,False,S158415630
+117,goleag,Golden Eagle,Aquila chrysaetos,L11380297,New Cuyama--Foothill Road and Bell Road,2024-01-07 07:53,2.0,34.8997724,-119.657477,True,False,False,S158383707
+118,goleag,Golden Eagle,Aquila chrysaetos,L12998435,"Sacramento National Wildlife Refuge, Willows US-CA 39.41221, -122.14540",2024-01-07 07:30,2.0,39.412206,-122.145402,True,False,True,S158445006
+119,goleag,Golden Eagle,Aquila chrysaetos,L216132,Coyote Hills Regional Park,2024-01-06 15:20,1.0,37.553764,-122.0875025,True,False,False,S158361999
+120,goleag,Golden Eagle,Aquila chrysaetos,L28674856,"16484–16766 CA-108, Jamestown US-CA 37.91604, -120.45681",2024-01-06 14:44,1.0,37.916039,-120.456814,True,False,True,S158297417
+121,goleag,Golden Eagle,Aquila chrysaetos,L340370,Hollister WTP,2024-01-06 13:46,1.0,36.8544884,-121.4469051,True,False,False,S158315909
+122,goleag,Golden Eagle,Aquila chrysaetos,L28679196,"Interstate 5, Lebec, California, US (34.886, -118.903)",2024-01-06 12:50,1.0,34.8862768,-118.9031974,True,False,True,S158319442
+123,goleag,Golden Eagle,Aquila chrysaetos,L1798844,Bitterwater Rd. (SLO Co.),2024-01-06 12:45,1.0,35.5344055,-120.0875959,True,False,False,S158310223
+124,goleag,Golden Eagle,Aquila chrysaetos,L3150986,Sierra Vista OSP--Boccardo Loop Trail,2024-01-06 12:22,3.0,37.40215,-121.80262,True,False,False,S158301801
+125,goleag,Golden Eagle,Aquila chrysaetos,L6598950,Panoche Rd--Tres Pinos Creek,2024-01-06 12:08,1.0,36.6838731,-121.208607,True,False,False,S158404795
+126,goleag,Golden Eagle,Aquila chrysaetos,L28673402,"18528 Highland Valley Rd, Ramona US-CA 33.02543, -116.92838",2024-01-06 11:58,2.0,33.025434,-116.928378,True,False,True,S158289749
+127,goleag,Golden Eagle,Aquila chrysaetos,L2462605,Poly Canyon,2024-01-06 10:45,1.0,35.3090668,-120.6548595,True,False,False,S158278847
+128,goleag,Golden Eagle,Aquila chrysaetos,L11199252,Old Chittenden Road,2024-01-06 10:40,2.0,36.9004934,-121.6006674,True,False,False,S158293258
+129,goleag,Golden Eagle,Aquila chrysaetos,L28671808,"18528 Highland Valley Rd, Ramona US-CA 33.02548, -116.92862",2024-01-06 10:21,2.0,33.025483,-116.928624,True,False,True,S158282154
+130,goleag,Golden Eagle,Aquila chrysaetos,L631087,Lake Piru,2024-01-06 10:13,1.0,34.4703904,-118.7528085,True,False,False,S158300056
+131,goleag,Golden Eagle,Aquila chrysaetos,L28670542,"18528 Highland Valley Rd, Ramona US-CA 33.02559, -116.92844",2024-01-06 09:53,1.0,33.025593,-116.928443,True,False,True,S158276001
+132,goleag,Golden Eagle,Aquila chrysaetos,L282089,Laguna Lake,2024-01-06 09:46,1.0,35.2656069,-120.6903817,True,False,False,S158279901
+133,goleag,Golden Eagle,Aquila chrysaetos,L590812,Napa-Sonoma Marshes WA--Huichica Creek Unit,2024-01-06 09:40,1.0,38.2076388,-122.3329353,True,False,False,S158295501
+134,goleag,Golden Eagle,Aquila chrysaetos,L28257848,"White Rock Rd, Raymond US-CA 37.31124, -120.11006",2024-01-06 09:30,1.0,37.311236,-120.110057,True,False,True,S158261257
+135,goleag,Golden Eagle,Aquila chrysaetos,L6599878,Ramona Grasslands Preserve,2024-01-06 09:00,1.0,33.0339524,-116.9469051,True,False,True,S158300237
+136,goleag,Golden Eagle,Aquila chrysaetos,L570192,Cachuma Lake Park,2024-01-06 08:52,1.0,34.5739701,-119.9579144,True,False,False,S158293768
+137,goleag,Golden Eagle,Aquila chrysaetos,L8415476,"Cachuma Lake Recreational Area, Santa Barbara US-CA (34.5782,-119.9630)",2024-01-06 08:46,1.0,34.578211,-119.962993,True,False,True,S158279860
+138,goleag,Golden Eagle,Aquila chrysaetos,L2521504,Cachuma Bay,2024-01-06 08:40,1.0,34.595042,-119.944843,True,False,True,S158283873
+139,goleag,Golden Eagle,Aquila chrysaetos,L384807,Prado Regional Park,2024-01-06 07:40,1.0,33.9463861,-117.6506138,True,False,False,S158297083
+140,goleag,Golden Eagle,Aquila chrysaetos,L28655690,"CA-89, Westwood US-CA 40.25557, -121.23527",2024-01-05 14:32,1.0,40.255571,-121.235274,True,False,True,S158182272
+141,goleag,Golden Eagle,Aquila chrysaetos,L14951684,Copperopolis Rd between Wallace-Bellota and Waverly Rds,2024-01-05 13:56,1.0,37.973954,-120.9525784,True,False,False,S158200837
+142,goleag,Golden Eagle,Aquila chrysaetos,L28656770,Auto selected PINNACLES Bench Trail,2024-01-05 13:50,1.0,36.4929933,-121.1733548,True,False,True,S158188043
+143,goleag,Golden Eagle,Aquila chrysaetos,L388837,Sequoia Riverlands Trust--Kaweah Oaks Preserve,2024-01-05 13:32,2.0,36.3336459,-119.1665762,True,False,False,S158182721
+144,goleag,Golden Eagle,Aquila chrysaetos,L28654520,"21355–21391 Mountain House Pkwy, Tracy US-CA 37.76496, -121.53194",2024-01-05 13:23,1.0,37.764956,-121.531938,True,True,True,S158175761
+145,goleag,Golden Eagle,Aquila chrysaetos,L11905620,Meridian Rd. (BUT Co.),2024-01-05 13:23,1.0,39.82936,-121.91936,True,False,False,S158307043
+146,goleag,Golden Eagle,Aquila chrysaetos,L293888,Toro Park,2024-01-05 12:54,1.0,36.5967104,-121.6924649,True,False,False,S158180134
+147,goleag,Golden Eagle,Aquila chrysaetos,L28657805,"Needlegrass Canyon-Pinnacles National Park, Paicines US-CA 36.50464, -121.11397",2024-01-05 12:45,1.0,36.504639,-121.11397,True,False,True,S158194375
+148,goleag,Golden Eagle,Aquila chrysaetos,L850355,Tule Lake NWR--Auto Tour and Sump 1B (SIS Co.),2024-01-05 12:37,4.0,41.8496929,-121.4777098,True,False,False,S158186491
+149,goleag,Golden Eagle,Aquila chrysaetos,L28659183,"Soda Lake Road South Segment -  35°11'17.8""N 119°51'07.2""W",2024-01-05 12:23,1.0,35.1608294,-119.8210283,True,False,True,S158202209
+150,goleag,Golden Eagle,Aquila chrysaetos,L973579,Pinnacles NP--Chaparral Trailhead Parking,2024-01-05 12:00,1.0,36.4913697,-121.2092829,True,False,False,S158350083
+151,goleag,Golden Eagle,Aquila chrysaetos,L941133,La Gloria Road--summit (SBT side only),2024-01-05 11:32,1.0,36.5377088,-121.3010359,True,False,False,S158272913
+152,goleag,Golden Eagle,Aquila chrysaetos,L1053551,Pinnacles NP--High Peaks Trail (steep narrow section),2024-01-05 11:20,1.0,36.4841154,-121.1979854,True,False,False,S158278093
+153,goleag,Golden Eagle,Aquila chrysaetos,L28657251,"32722–32730 Bryant Canyon Rd, Soledad US-CA (36.4470,-121.3008)",2024-01-05 11:05,1.0,36.447034,-121.300788,True,False,True,S158191076
+154,goleag,Golden Eagle,Aquila chrysaetos,L28658486,"Carrizo Plain National Monument, Santa Margarita US-CA (35.1956,-119.9000)",2024-01-05 11:04,2.0,35.195622,-119.900002,True,False,True,S158198135
+155,goleag,Golden Eagle,Aquila chrysaetos,L2443192,Pinnacles NP--Bench Trail,2024-01-05 10:50,1.0,36.4849543,-121.1672741,True,False,False,S158187857
+156,goleag,Golden Eagle,Aquila chrysaetos,L1115259,Keyesville vicinity,2024-01-05 10:45,1.0,35.6273726,-118.5079765,True,False,False,S158178143
+157,goleag,Golden Eagle,Aquila chrysaetos,L6636276,Pinnacles NP--McCabe Canyon (upper),2024-01-05 10:45,1.0,36.506764,-121.156756,True,False,False,S158188722
+158,goleag,Golden Eagle,Aquila chrysaetos,L6635565,"Pinnacles NP--ridge above Rose Canyon (36.5005,-121.1301)",2024-01-05 10:13,3.0,36.500528,-121.130052,True,False,True,S158194194
+159,goleag,Golden Eagle,Aquila chrysaetos,L28657621,"eller lane 4032 California 3, Etna, California, US (41.514, -122.907)",2024-01-05 10:12,1.0,41.5144194,-122.9066513,True,False,True,S158193387
+160,goleag,Golden Eagle,Aquila chrysaetos,L828085,Pinnacles NP--North Wilderness Trail,2024-01-05 10:08,1.0,36.524191,-121.2013006,True,False,False,S158195370
+161,goleag,Golden Eagle,Aquila chrysaetos,L28664286,"San Dieguito River Park, Santa Ysabel US-CA (33.1233,-116.6884)",2024-01-05 09:45,1.0,33.123341,-116.68838,True,False,True,S158242719
+162,goleag,Golden Eagle,Aquila chrysaetos,L6641163,Hwy 25 Route for CAPI CBC,2024-01-05 09:36,1.0,36.539823,-121.152764,True,False,True,S158197675
+163,goleag,Golden Eagle,Aquila chrysaetos,L3312034,mill creek,2024-01-05 09:32,2.0,41.56782,-122.9549,True,False,True,S158194550
+164,goleag,Golden Eagle,Aquila chrysaetos,L825716,East Side Scott Valley,2024-01-05 09:12,3.0,41.4827979,-122.8284359,True,False,True,S158190794
+165,goleag,Golden Eagle,Aquila chrysaetos,L17336463,"Gabilan Dr, Soledad US-CA 36.43546, -121.31774",2024-01-05 09:11,2.0,36.435463,-121.317742,True,False,True,S158187709
+166,goleag,Golden Eagle,Aquila chrysaetos,L278422,Lake Crowley,2024-01-05 08:47,2.0,37.6066162,-118.7464142,True,False,False,S158197960
+167,goleag,Golden Eagle,Aquila chrysaetos,L573584,Tule R. below Success Dam (Bartlett Park/Big Sycamore Trail),2024-01-05 08:14,1.0,36.0566041,-118.9238853,True,False,False,S158171939
+168,goleag,Golden Eagle,Aquila chrysaetos,L28649008,"40120 Bluejay Ln, Soledad US-CA 36.40608, -121.25842",2024-01-05 07:47,2.0,36.406078,-121.25842,True,False,True,S158147801
+169,goleag,Golden Eagle,Aquila chrysaetos,L3265917,Salinas River Overlook,2024-01-05 07:30,3.0,36.4041304,-121.2604594,True,False,True,S158194474
+170,goleag,Golden Eagle,Aquila chrysaetos,L28641234,"San Vicente Road, Soledad, California, US (36.466, -121.331)",2024-01-04 15:15,1.0,36.4661549,-121.3312744,True,False,True,S158108253
+171,goleag,Golden Eagle,Aquila chrysaetos,L1414617,Santa Ana Valley Rd. at Quien Sabe Rd.,2024-01-04 15:05,2.0,36.8010537,-121.2721516,True,False,False,S158106865
+172,goleag,Golden Eagle,Aquila chrysaetos,L2698912,Ed Levin CP--Sandy Wool-Elm areas,2024-01-04 14:41,1.0,37.4559362,-121.8632054,True,False,False,S158105628
+173,goleag,Golden Eagle,Aquila chrysaetos,L1317271,Santa Ana Valley Rd. at John Smith Rd.,2024-01-04 14:36,1.0,36.8252258,-121.282196,True,False,False,S158102542
+174,goleag,Golden Eagle,Aquila chrysaetos,L28654481,San Bernardino Fwy,2024-01-04 14:30,1.0,34.0649515,-117.8070627,True,False,True,S158175691
+175,goleag,Golden Eagle,Aquila chrysaetos,L1454658,Coyote Valley OSP,2024-01-04 13:55,1.0,37.1699462,-121.7360955,True,False,False,S158110454
+176,goleag,Golden Eagle,Aquila chrysaetos,L17867296,Sierra Vista OSP--Aquila Loop Trail,2024-01-04 13:23,1.0,37.4105182,-121.7990034,True,False,False,S158097369
+177,goleag,Golden Eagle,Aquila chrysaetos,L383741,Yucaipa Regional Park,2024-01-04 13:10,1.0,34.0550061,-117.0483398,True,False,False,S158093638
+178,goleag,Golden Eagle,Aquila chrysaetos,L378943,Ogier Ponds,2024-01-04 12:14,2.0,37.1791249,-121.6887975,True,False,False,S158105347
+179,goleag,Golden Eagle,Aquila chrysaetos,L776550,Salt Pond A1,2024-01-04 12:12,1.0,37.4379296,-122.0886612,True,False,False,S158093468
+180,goleag,Golden Eagle,Aquila chrysaetos,L781733,White Rock Rd. (MRP Co.),2024-01-04 11:45,1.0,37.2909209,-120.1329231,True,False,False,S158115992
+181,goleag,Golden Eagle,Aquila chrysaetos,L3682469,Rich Gulch,2024-01-04 11:32,2.0,40.0336077,-121.1299324,True,False,True,S158091559
+182,goleag,Golden Eagle,Aquila chrysaetos,L21762531,"Deer Creek Dr, Porterville US-CA 35.99138, -118.90894",2024-01-04 10:52,2.0,35.991382,-118.90894,True,False,True,S158088853
+183,goleag,Golden Eagle,Aquila chrysaetos,L11814160,Paradise (town),2024-01-04 10:50,1.0,37.4810991,-118.6060702,True,False,False,S158200780
+184,goleag,Golden Eagle,Aquila chrysaetos,L781720,White Rock Rd. pond,2024-01-04 10:45,1.0,37.3100722,-120.1122594,True,False,False,S158114692
+185,goleag,Golden Eagle,Aquila chrysaetos,L10457062,Long Canyon Road North,2024-01-04 10:45,1.0,34.857831,-120.2772153,True,False,True,S158083320
+186,goleag,Golden Eagle,Aquila chrysaetos,L28641956,"Merced National Wildlife Refuge, Merced US-CA 37.18544, -120.62036",2024-01-04 09:59,1.0,37.18544,-120.620362,True,False,True,S158112063
+187,goleag,Golden Eagle,Aquila chrysaetos,L692676,Kelso Valley Rd.--Rocky Point,2024-01-04 09:04,1.0,35.5780833,-118.2506111,True,False,False,S158117501
+188,goleag,Golden Eagle,Aquila chrysaetos,L1647772,Butte Valley Wildlife Area,2024-01-04 08:22,1.0,41.8437545,-122.1041139,True,False,False,S158054067
+189,goleag,Golden Eagle,Aquila chrysaetos,L2104268,Coyote Hills Regional Park--Quarry Staging Area,2024-01-04 08:09,1.0,37.5511782,-122.0863867,True,False,False,S158121388
+190,goleag,Golden Eagle,Aquila chrysaetos,L1826673,Redwood Regional Park--Canyon Meadow area,2024-01-04 07:45,2.0,37.807628,-122.1488356,True,False,False,S158088072
+191,goleag,Golden Eagle,Aquila chrysaetos,L1561390,Robert Louis Stevenson SP,2024-01-04 07:10,1.0,38.651907,-122.610525,True,False,False,S158119811
+192,goleag,Golden Eagle,Aquila chrysaetos,L28614013,Palo Corona Gate and Cow Sign,2024-01-03 15:37,1.0,36.535679,-121.895002,True,False,True,S157987962
+193,goleag,Golden Eagle,Aquila chrysaetos,L4233535,San Juan Grade Rd--pond,2024-01-03 15:26,2.0,36.7757213,-121.6025698,True,False,False,S158001387
+194,goleag,Golden Eagle,Aquila chrysaetos,L28613890,"Tule Lake National Wildlife Refuge, Tulelake US-CA 41.85569, -121.49049",2024-01-03 15:14,1.0,41.855686,-121.490493,True,False,True,S157987316
+195,goleag,Golden Eagle,Aquila chrysaetos,L1415247,Rainsville Rd. at Wiggins Creek,2024-01-03 15:11,1.0,38.2707815,-122.6892756,True,False,False,S157987498
+196,goleag,Golden Eagle,Aquila chrysaetos,L2038399,Don Pedro Reservoir--south arm,2024-01-03 13:20,1.0,37.6865373,-120.3490448,True,False,False,S157998194
+197,goleag,Golden Eagle,Aquila chrysaetos,L28614496,"Perimeter Rd, Bradley US-CA 35.77725, -120.79163",2024-01-03 12:08,1.0,35.77725,-120.791633,True,False,True,S157990606
+198,goleag,Golden Eagle,Aquila chrysaetos,L10657604,Ed Levin CP--Calera Creek Trail,2024-01-03 11:51,1.0,37.4632324,-121.8746074,True,False,False,S158026908
+199,goleag,Golden Eagle,Aquila chrysaetos,L1341883,Coyote Hills Regional Park--Visitor Center area,2024-01-03 11:32,1.0,37.5533565,-122.0907479,True,False,False,S158165133
+200,goleag,Golden Eagle,Aquila chrysaetos,L338988,Ed Levin County Park (please use a more specific hotspot where possible),2024-01-03 11:15,1.0,37.4608486,-121.8681622,True,False,False,S158026735
+201,goleag,Golden Eagle,Aquila chrysaetos,L285964,Lake Solano County Park (SOL Co.),2024-01-03 10:41,1.0,38.49153,-122.0282149,True,False,False,S157999728
+202,goleag,Golden Eagle,Aquila chrysaetos,L28613050,Big Canyon Drive,2024-01-03 10:00,1.0,33.731167,-117.390992,True,False,True,S157983158
+203,goleag,Golden Eagle,Aquila chrysaetos,L28615851,CBC Section 4- Access by permission,2024-01-03 09:56,1.0,36.60577,-120.98331,True,False,True,S157992942
+204,goleag,Golden Eagle,Aquila chrysaetos,L2637482,Rd. 208 (between Rd. 209 and Rd. 211),2024-01-03 09:39,1.0,37.0433261,-119.7598064,True,False,False,S157975535
+205,goleag,Golden Eagle,Aquila chrysaetos,L5159602,Bland Rd.,2024-01-03 08:57,2.0,40.4187789,-122.6669884,True,False,False,S157983845
+206,goleag,Golden Eagle,Aquila chrysaetos,L4128737,Panoche Valley CBC Section 4 - East,2024-01-03 08:11,1.0,36.6120376,-120.9318674,True,False,True,S158004698
+207,goleag,Golden Eagle,Aquila chrysaetos,L1304411,Panoche Rd.--Miller Ranch,2024-01-02 15:49,3.0,36.66368,-121.0995,True,False,False,S158119825
+208,goleag,Golden Eagle,Aquila chrysaetos,L28606086,"1404–1498 Shady Dell Rd, Macdoel US-CA 41.86578, -121.98259",2024-01-02 14:39,2.0,41.865781,-121.982591,True,False,True,S157947469
+209,goleag,Golden Eagle,Aquila chrysaetos,L28598784,A2Z Ranch (private),2024-01-02 14:09,2.0,37.3588692,-121.5973899,True,False,True,S157911626
+210,goleag,Golden Eagle,Aquila chrysaetos,L2156363,White Rock Rd.--middle section (oak savanna),2024-01-02 13:32,1.0,37.3240315,-120.0675201,True,False,False,S157912610
+211,goleag,Golden Eagle,Aquila chrysaetos,L28592221,"Eastern Transportation Corridor, Silverado US-CA 33.77004, -117.73873",2024-01-02 13:01,2.0,33.770037,-117.738728,True,False,True,S157881444
+212,goleag,Golden Eagle,Aquila chrysaetos,L28591722,"White Rock Rd, Raymond US-CA 37.26051, -120.17546",2024-01-02 12:30,1.0,37.26051,-120.175456,True,False,True,S157878740
+213,goleag,Golden Eagle,Aquila chrysaetos,L591812,Lake McSwain ,2024-01-02 12:02,2.0,37.5208229,-120.3083181,True,False,False,S157914419
+214,goleag,Golden Eagle,Aquila chrysaetos,L5778127,Lark Bunting stake-out 2023-2024 (use only for birds at this location),2024-01-02 09:56,1.0,35.1037303,-119.7330033,True,False,False,S157981827
+215,goleag,Golden Eagle,Aquila chrysaetos,L17306010,"Mule Trail, Mount Hamilton US-CA (restricted access)",2024-01-02 08:59,1.0,37.338482,-121.602961,True,False,True,S157901590
+216,goleag,Golden Eagle,Aquila chrysaetos,L28614356,"42034–42788 San Antonio Valley Rd, Livermore US-CA 37.32615, -121.47504",2024-01-02 08:34,3.0,37.32615,-121.47504,True,False,True,S157989895
+217,goleag,Golden Eagle,Aquila chrysaetos,L874154,Lake Chabot Regional Park,2024-01-02 07:20,1.0,37.7244154,-122.1024199,True,False,False,S157870059
+218,goleag,Golden Eagle,Aquila chrysaetos,L594615,Mines Rd. (SCL Co.),2024-01-02 07:10,1.0,37.4252525,-121.5062141,True,False,False,S157897496
+219,goleag,Golden Eagle,Aquila chrysaetos,L338300,Sierra Valley--Marble Hot Springs Rd.,2024-01-01 18:14,1.0,39.7627625,-120.3465128,True,False,False,S158547592
+220,goleag,Golden Eagle,Aquila chrysaetos,L28598225,Carrizo Plain NM,2024-01-01 17:12,1.0,35.079063,-119.669789,True,False,True,S157908148
+221,goleag,Golden Eagle,Aquila chrysaetos,L28644863,Gilner Point,2024-01-01 16:50,1.0,34.252928,-116.941688,True,False,True,S158126211
+222,goleag,Golden Eagle,Aquila chrysaetos,L28577216,"4450–4562 US-101 N, Gilroy US-CA 36.96733, -121.55261",2024-01-01 16:38,1.0,36.967329,-121.55261,True,False,True,S157799737
+223,goleag,Golden Eagle,Aquila chrysaetos,L3387509,John Smith Rd. dump,2024-01-01 16:33,2.0,36.82136,-121.32158,True,False,False,S157851542
+224,goleag,Golden Eagle,Aquila chrysaetos,L2138667,Mendiboure Ranch ( Likely Unit),2024-01-01 16:27,1.0,41.2501609,-120.5123377,True,False,True,S157799328
+225,goleag,Golden Eagle,Aquila chrysaetos,L12667818,Ken Mercer Sports Park,2024-01-01 15:05,1.0,37.6811712,-121.8918943,True,False,False,S157798225
+226,goleag,Golden Eagle,Aquila chrysaetos,L269172,Riverside--Sycamore Canyon Wilderness Park,2024-01-01 15:00,1.0,33.9452364,-117.323784,True,False,False,S157885861
+227,goleag,Golden Eagle,Aquila chrysaetos,L11683028,Marlin Pound Neighborhood Park and wetlands,2024-01-01 14:25,3.0,37.7169206,-121.7451309,True,False,False,S157812637
+228,goleag,Golden Eagle,Aquila chrysaetos,L941091,Santa Anita Rd.,2024-01-01 14:13,3.0,36.7808298,-121.2458038,True,False,False,S157849884
+229,goleag,Golden Eagle,Aquila chrysaetos,L28576490,"944-1000 Friesen Drive, Angwin, California, US (38.586, -122.463)",2024-01-01 14:11,1.0,38.5861614,-122.4630938,True,False,True,S157794688
+230,goleag,Golden Eagle,Aquila chrysaetos,L2809206,Pescadero Creek Road at road bend (private),2024-01-01 14:07,2.0,36.9170683,-121.6001945,True,False,True,S157808655
+231,goleag,Golden Eagle,Aquila chrysaetos,L1109496,Quien Sabe Rd.--Hwy 25 to Santa Ana Valley Rd.,2024-01-01 14:03,3.0,36.8041306,-121.2962723,True,False,False,S157848875
+232,goleag,Golden Eagle,Aquila chrysaetos,L805339,Bodega Farm Pond,2024-01-01 13:49,1.0,38.3500033,-122.9566669,True,False,False,S157778795
+233,goleag,Golden Eagle,Aquila chrysaetos,L28549738,"1740 Diablo Dr, San Luis Obispo US-CA 35.26481, -120.70593",2024-01-01 13:43,1.0,35.264811,-120.705931,True,False,True,S157790315
+234,goleag,Golden Eagle,Aquila chrysaetos,L7602037,Shasta Valley Wildlife Area--Bass Lake,2024-01-01 13:03,3.0,41.6989358,-122.4926662,True,False,False,S157797261
+235,goleag,Golden Eagle,Aquila chrysaetos,L28578762,"CA Route 20, East of CA-16, Williams US-CA",2024-01-01 13:02,2.0,39.025453,-122.344041,True,False,True,S157808740
+236,goleag,Golden Eagle,Aquila chrysaetos,L2271521,Alameda Creek--Niles Staging Area,2024-01-01 12:50,1.0,37.5797101,-121.965639,True,False,False,S157796884
+237,goleag,Golden Eagle,Aquila chrysaetos,L675478,Tilden Regional Park--Inspiration Pt.,2024-01-01 12:43,1.0,37.9051656,-122.2441864,True,False,False,S157815070
+238,goleag,Golden Eagle,Aquila chrysaetos,L28573751,"Sierra Vista Open Space Preserve, San Jose US-CA 37.40798, -121.79866",2024-01-01 12:13,3.0,37.407983,-121.798662,True,False,True,S157779791
+239,goleag,Golden Eagle,Aquila chrysaetos,L8045867,"140 Ardmore Rd, Kensington US-CA (37.9045,-122.2796)",2024-01-01 12:08,1.0,37.904505,-122.279642,True,False,True,S157758795
+240,goleag,Golden Eagle,Aquila chrysaetos,L492645,Shasta Valley Wildlife Area,2024-01-01 12:06,1.0,41.7192157,-122.4745989,True,False,False,S157770612
+241,goleag,Golden Eagle,Aquila chrysaetos,L2167221,Star Creek Ranch--Oak Tree Meadow (restricted access),2024-01-01 11:51,1.0,36.9233247,-121.6140068,True,False,True,S157868027
+242,goleag,Golden Eagle,Aquila chrysaetos,L22633865,"Indian Cove, Joshua Tree National Park",2024-01-01 11:50,1.0,34.0949063,-116.1594425,True,False,True,S157785440
+243,goleag,Golden Eagle,Aquila chrysaetos,L1315287,K-Arrow Ranch ponds,2024-01-01 11:42,1.0,37.8450709,-120.5418634,True,False,False,S157756970
+244,goleag,Golden Eagle,Aquila chrysaetos,L28571613,"4050 Black Rd, Santa Maria US-CA (34.8775,-120.5045)",2024-01-01 11:40,1.0,34.877512,-120.504483,True,False,True,S157768920
+245,goleag,Golden Eagle,Aquila chrysaetos,L1325961,Quartz Valley Rd.,2024-01-01 11:36,1.0,41.626341,-122.9600553,True,False,False,S157812017
+246,goleag,Golden Eagle,Aquila chrysaetos,L9085939,"17569–17719 Rangeland Rd, Ramona US-CA (33.0357,-116.9360)",2024-01-01 11:30,2.0,33.03569,-116.936015,True,False,True,S157858679
+247,goleag,Golden Eagle,Aquila chrysaetos,L21083107,Santa Ana Valley Rd.-Red Dog Ranch,2024-01-01 11:28,3.0,36.84391,-121.3002,True,False,False,S157844974
+248,goleag,Golden Eagle,Aquila chrysaetos,L302253,Sunol Regional Wilderness,2024-01-01 11:20,3.0,37.5243214,-121.8211288,True,False,False,S157807191
+249,goleag,Golden Eagle,Aquila chrysaetos,L28575984,"469 Hidden Valley Rd, Royal Oaks US-CA 36.83698, -121.70228",2024-01-01 11:16,1.0,36.836981,-121.702278,True,False,True,S157791917
+250,goleag,Golden Eagle,Aquila chrysaetos,L10168448,Lava Beds NM--West Overlook Tule Lake,2024-01-01 11:08,1.0,41.8364067,-121.4533523,True,False,False,S157798708
+251,goleag,Golden Eagle,Aquila chrysaetos,L28384487,Arroyo Valle at 680 (Eastern Phoebe Stakeout),2024-01-01 11:01,1.0,37.662179,-121.905383,True,False,True,S157783548
+252,goleag,Golden Eagle,Aquila chrysaetos,L28572925,"Yokohl Dr. (36.2332, -118.8763)",2024-01-01 10:57,1.0,36.2332062,-118.8762566,True,False,True,S157775324
+253,goleag,Golden Eagle,Aquila chrysaetos,L28579974,"11995 Flynn Rd S, Livermore US-CA (37.7002,-121.6502)",2024-01-01 10:51,1.0,37.700192,-121.650237,True,False,True,S157815857
+254,goleag,Golden Eagle,Aquila chrysaetos,L28581186,"60157 Italian Bar Road, North Fork, California, US (37.166, -119.45)",2024-01-01 10:48,1.0,37.16574,-119.4495983,True,False,True,S157822249
+255,goleag,Golden Eagle,Aquila chrysaetos,L662128,Lonoak Road (mp 2 to mp 7 in MTY Co.),2024-01-01 10:44,1.0,36.2464883,-121.0301113,True,False,False,S157745487
+256,goleag,Golden Eagle,Aquila chrysaetos,L28574754,"40067–40101 Carmel Valley Rd, Carmel Valley US-CA (36.3367,-121.5278)",2024-01-01 10:40,1.0,36.336694,-121.527798,True,False,True,S157785316
+257,goleag,Golden Eagle,Aquila chrysaetos,L2058614,Merk Rd.,2024-01-01 10:33,1.0,36.9738406,-121.8155737,True,False,False,S157811834
+258,goleag,Golden Eagle,Aquila chrysaetos,L2439577,First stop,2024-01-01 10:30,1.0,37.68696,-121.61253,True,False,True,S157749896
+259,goleag,Golden Eagle,Aquila chrysaetos,L2597366,Coyote Valley--Laguna Ave.,2024-01-01 10:24,2.0,37.1871074,-121.7367554,True,False,False,S157762902
+260,goleag,Golden Eagle,Aquila chrysaetos,L1543130,John Smith Rd.,2024-01-01 10:17,4.0,36.826734,-121.3327943,True,False,False,S157844479
+261,goleag,Golden Eagle,Aquila chrysaetos,L6547671,Calaveras Rd. north (ALA Co.),2024-01-01 10:14,5.0,37.5594455,-121.8603301,True,False,False,S157807050
+262,goleag,Golden Eagle,Aquila chrysaetos,L2160948,I-5--Dunnigan Rest Area,2024-01-01 10:00,1.0,38.8922687,-121.9792271,True,False,False,S157791303
+263,goleag,Golden Eagle,Aquila chrysaetos,L28580785,"843–853 Tule Rd, Bakersfield US-CA (35.6311,-118.9671)",2024-01-01 09:49,1.0,35.6311,-118.967124,True,False,True,S157820235
+264,goleag,Golden Eagle,Aquila chrysaetos,L1057700,Shearwater House-Debi's Yard,2024-01-01 09:30,1.0,36.8300522,-121.3767171,True,False,True,S157840918
+265,goleag,Golden Eagle,Aquila chrysaetos,L4123060,Kelly Thompson Ranch (private),2024-01-01 07:53,1.0,36.934411,-121.686585,True,False,True,S157798270
+266,goleag,Golden Eagle,Aquila chrysaetos,L2862931,Pescadero Creek Road--scrub (private),2024-01-01 07:50,1.0,36.9127947,-121.6072197,True,False,True,S157864575
+267,goleag,Golden Eagle,Aquila chrysaetos,L466841,Stanford Dish Trail,2023-12-31 15:04,2.0,37.4111586,-122.1885896,True,False,False,S157660399
+268,goleag,Golden Eagle,Aquila chrysaetos,L3313095,Putah Creek--fishing access #4,2023-12-31 14:28,1.0,38.5080795,-122.0429242,True,False,False,S157654990
+269,goleag,Golden Eagle,Aquila chrysaetos,L17078674,Metcalf Rd. - BBS stop 12,2023-12-31 14:10,2.0,37.2350125,-121.7398196,True,False,True,S157665943
+270,goleag,Golden Eagle,Aquila chrysaetos,L2933102,Horseshoe Ranch Wildlife Area,2023-12-31 13:53,2.0,41.978722,-122.4477339,True,False,False,S157734126
+271,goleag,Golden Eagle,Aquila chrysaetos,L207664,Las Gallinas Valley Sanitary District,2023-12-31 12:35,1.0,38.0274109,-122.515583,True,False,False,S157647576
+272,goleag,Golden Eagle,Aquila chrysaetos,L508627,Lynch Canyon Open Space Park,2023-12-31 12:21,2.0,38.1904682,-122.1870661,True,False,False,S157777091
+273,goleag,Golden Eagle,Aquila chrysaetos,L10828411,Kanaka Valley BLM Tract,2023-12-31 11:34,1.0,38.746561,-121.021876,True,False,False,S157649212
+274,goleag,Golden Eagle,Aquila chrysaetos,L1487641,Mines Rd.--MP 8.6 (ALA Co.),2023-12-31 11:10,1.0,37.5952587,-121.6320064,True,False,False,S157656672
+275,goleag,Golden Eagle,Aquila chrysaetos,L14865589,"E Dunne Ave, Morgan Hill US-CA 37.17006, -121.56883",2023-12-31 08:35,3.0,37.17006,-121.568832,True,False,True,S157646350
+276,goleag,Golden Eagle,Aquila chrysaetos,L10329707,"Ntu Rd, Santa Maria US-CA (34.8592,-120.5395)",2023-12-31 07:58,1.0,34.859184,-120.53948,True,False,True,S157662496
+277,goleag,Golden Eagle,Aquila chrysaetos,L2508674,Chanslor Ranch,2023-12-31 07:30,1.0,38.3495244,-123.0547285,True,False,True,S157664268
+278,goleag,Golden Eagle,Aquila chrysaetos,L14181370,"Unnamed Road, Weldon, California, US (35.696, -118.348)Hanning Flat",2023-12-31 07:15,1.0,35.6956103,-118.3482701,True,False,True,S157634065
+279,goleag,Golden Eagle,Aquila chrysaetos,L8391095,Hogsback Road-(west end),2023-12-30 17:04,1.0,40.187355,-122.171621,True,False,False,S157563524
+280,goleag,Golden Eagle,Aquila chrysaetos,L28527572,"Tuna Canyon Park, Malibu US-CA 34.04788, -118.63516",2023-12-30 15:13,1.0,34.047878,-118.635158,True,False,True,S157551322
+281,goleag,Golden Eagle,Aquila chrysaetos,L28529602,"36000-36004 Isabella Walker Pass Road, Onyx, California, US (35.705, -118.067)",2023-12-30 13:56,1.0,35.7053777,-118.0667265,True,False,True,S157561885
+282,goleag,Golden Eagle,Aquila chrysaetos,L28527360,"SR 167, E of US 395 at pinyon pines",2023-12-30 13:55,1.0,38.0709308,-119.0744486,True,False,True,S157550231
+283,goleag,Golden Eagle,Aquila chrysaetos,L6585304,Mill Creek Powerhouse Rd.,2023-12-30 13:43,1.0,38.0471234,-119.1664615,True,False,False,S157544613
+284,goleag,Golden Eagle,Aquila chrysaetos,L28467173,"Alhambra Valley Rd, Briones US-CA 37.97017, -122.21580",2023-12-30 13:01,1.0,37.970171,-122.215804,True,False,True,S157538244
+285,goleag,Golden Eagle,Aquila chrysaetos,L725880,Dechambeau Ponds,2023-12-30 12:58,1.0,38.0506527,-119.0841529,True,False,False,S157535538
+286,goleag,Golden Eagle,Aquila chrysaetos,L28528718,"Volcanic Legacy Scenic Byway, Macdoel (driving)",2023-12-30 12:51,1.0,41.9420353,-121.9317676,True,False,True,S157557145
+287,goleag,Golden Eagle,Aquila chrysaetos,L28522302,"US-101 S, Salinas US-CA 36.81552, -121.63868",2023-12-30 12:20,1.0,36.815522,-121.638675,True,False,True,S157527371
+288,goleag,Golden Eagle,Aquila chrysaetos,L1095160,Bolado County Park,2023-12-30 12:06,1.0,36.7665296,-121.3021088,True,False,False,S157524280
+289,goleag,Golden Eagle,Aquila chrysaetos,L729675,Walker Pass West--72.85,2023-12-30 12:02,2.0,35.7406944,-118.0809444,True,False,False,S157561263
+290,goleag,Golden Eagle,Aquila chrysaetos,L27549221,Kaiser Aetna Road - pullout above Bell Station,2023-12-30 11:45,2.0,37.0382765,-121.3110535,True,False,False,S157820556
+291,goleag,Golden Eagle,Aquila chrysaetos,L22028301,"Gomez Rd, El Sobrante US-CA 37.96851, -122.24280",2023-12-30 11:41,2.0,37.968512,-122.242802,True,False,True,S157528947
+292,goleag,Golden Eagle,Aquila chrysaetos,L1915468,Vargas Plateau Regional Park,2023-12-30 11:38,1.0,37.5751951,-121.9316769,True,False,False,S157565196
+293,goleag,Golden Eagle,Aquila chrysaetos,L13565913,"93283, Weldon US-CA 35.68441, -118.28358",2023-12-30 11:16,2.0,35.684413,-118.283579,True,False,True,S157554527
+294,goleag,Golden Eagle,Aquila chrysaetos,L109471,"Ano Nuevo SP--Visitors Center, Elephant Seals and trails",2023-12-30 10:33,1.0,37.1174022,-122.3188162,True,True,False,S157555980
+295,goleag,Golden Eagle,Aquila chrysaetos,L10364379,Coyote Valley Sporting Clays Rd (Tilton OSP),2023-12-30 10:12,1.0,37.1653657,-121.7152439,True,False,True,S157517080
+296,goleag,Golden Eagle,Aquila chrysaetos,L28537227,"Tule Lake National Wildlife Refuge, Tulelake US-CA 41.94084, -121.50371",2023-12-30 10:04,1.0,41.940844,-121.503713,True,False,True,S157596218
+297,goleag,Golden Eagle,Aquila chrysaetos,L21858173,Kirby Landfill,2023-12-30 09:10,2.0,37.1827493,-121.6791737,True,False,False,S157535018
+298,goleag,Golden Eagle,Aquila chrysaetos,L1599674,Whitehouse Cyn Rd.--lower,2023-12-30 08:33,1.0,37.1515926,-122.3393606,True,True,False,S157522902
+299,goleag,Golden Eagle,Aquila chrysaetos,L1259902,Whitehouse Canyon Road,2023-12-30 08:33,1.0,37.162095,-122.3283005,True,True,True,S157547486
+300,goleag,Golden Eagle,Aquila chrysaetos,L14206557,OSCSP Vernal Pool Transect (Restricted),2023-12-30 08:17,2.0,37.209552,-121.75329,True,False,False,S157520521
+301,goleag,Golden Eagle,Aquila chrysaetos,L13040662,"555 Bailey Ave, San Jose US-CA 37.19581, -121.74875",2023-12-30 07:58,2.0,37.195808,-121.748751,True,False,True,S157542239
+302,goleag,Golden Eagle,Aquila chrysaetos,L28526065,"Coyote Creek Parkway, Morgan Hill US-CA 37.16656, -121.64938",2023-12-30 07:46,3.0,37.16656,-121.649378,True,False,True,S157543870
+303,goleag,Golden Eagle,Aquila chrysaetos,L1317138,Upper Santa Ynez River--Fremont Campground,2023-12-30 07:15,1.0,34.5432252,-119.8215348,True,False,False,S157557038
+304,goleag,Golden Eagle,Aquila chrysaetos,L28541944,"Ramona Airport, Ramona US-CA (33.0382,-116.9034)",2023-12-30 05:38,1.0,33.038162,-116.903405,True,False,True,S157617950
+305,goleag,Golden Eagle,Aquila chrysaetos,L28542511,McKean/Uvas Sector,2023-12-30,1.0,37.1025786,-121.736272,True,False,True,S157621031
+306,goleag,Golden Eagle,Aquila chrysaetos,L21741716,"Ashford Highlands, San Benito county US-CA 36.81038, -121.39892",2023-12-29 15:53,1.0,36.810378,-121.398917,True,False,True,S157448883
+307,goleag,Golden Eagle,Aquila chrysaetos,L28468725,"La Quinta Cove to Lake Cahuilla Trail, La Quinta US-CA (33.6449,-116.3084)",2023-12-29 14:35,1.0,33.644925,-116.30837,True,True,True,S157513683
+308,goleag,Golden Eagle,Aquila chrysaetos,L1350365,Payen Rd. (ED Co.),2023-12-29 13:53,1.0,38.6127457,-121.0693099,True,False,False,S157441150
+309,goleag,Golden Eagle,Aquila chrysaetos,L479841,Payen Rd. (SAC Co.),2023-12-29 13:52,1.0,38.6174405,-121.0796785,True,False,False,S157440500
+310,goleag,Golden Eagle,Aquila chrysaetos,L2378039,Frazier Valley (CR J28),2023-12-29 13:45,4.0,36.1259351,-118.9555145,True,False,False,S157454114
+311,goleag,Golden Eagle,Aquila chrysaetos,L28502565,"Alhambra Valley Rd, Briones US-CA 37.96461, -122.20462",2023-12-29 13:37,2.0,37.964607,-122.204622,True,False,True,S157437949
+312,goleag,Golden Eagle,Aquila chrysaetos,L1979614,Tule Lake NWR--Auto Tour and Sump 1A,2023-12-29 12:42,1.0,41.8776136,-121.5273285,True,False,False,S157443295
+313,goleag,Golden Eagle,Aquila chrysaetos,L1330872,San Luis NWR--Waterfowl Tour Route,2023-12-29 12:34,1.0,37.19,-120.78,True,False,False,S157439358
+314,goleag,Golden Eagle,Aquila chrysaetos,L1848010,Ave 360 to Antelope Valley,2023-12-29 12:19,1.0,36.4427059,-119.0987492,True,False,True,S157432663
+315,goleag,Golden Eagle,Aquila chrysaetos,L1320876,Inaja Memorial Park,2023-12-29 12:03,1.0,33.0969346,-116.6669941,True,False,False,S157461282
+316,goleag,Golden Eagle,Aquila chrysaetos,L2235283,Shady Dell Rd.,2023-12-29 11:40,1.0,41.8654062,-121.8982887,True,False,False,S157429969
+317,goleag,Golden Eagle,Aquila chrysaetos,L28544203,GOEA Location,2023-12-29 11:23,3.0,39.1057069,-122.3161903,True,False,True,S157628444
+318,goleag,Golden Eagle,Aquila chrysaetos,L4332454,San Joaquin River Trail east of South Finegold,2023-12-29 10:29,1.0,37.0372069,-119.6440744,True,False,True,S157440277
+319,goleag,Golden Eagle,Aquila chrysaetos,L1072111,Putah Creek--fishing access #3,2023-12-29 10:24,1.0,38.5164914,-122.0607769,True,False,False,S157440093
+320,goleag,Golden Eagle,Aquila chrysaetos,L28497802,"US-395 S, Inyokern US-CA 36.02799, -117.94240",2023-12-29 10:13,1.0,36.027988,-117.942397,True,False,True,S157417904
+321,goleag,Golden Eagle,Aquila chrysaetos,L28499179,"CA-161, Tulelake US-CA 41.99644, -121.77776",2023-12-29 10:00,1.0,41.996444,-121.777756,True,False,True,S157423609
+322,goleag,Golden Eagle,Aquila chrysaetos,L28504939,"34443 Sierra Dr, Lemon Cove US-CA 36.41063, -119.00533",2023-12-29 09:57,9.0,36.410628,-119.005331,True,False,True,S157449699
+323,goleag,Golden Eagle,Aquila chrysaetos,L1794995,Freeman Canyon (above IWV),2023-12-29 08:57,1.0,35.6284448,-117.968307,True,False,False,S157455641
+324,goleag,Golden Eagle,Aquila chrysaetos,L1798091,Los Vaqueros Reservoir--Walnut Trail and Staging Area,2023-12-29 08:56,1.0,37.8647934,-121.699764,True,False,False,S157420953
+325,goleag,Golden Eagle,Aquila chrysaetos,L1053553,Pinnacles NP--Condor Gulch Trail,2023-12-29 08:44,1.0,36.4855387,-121.1927605,True,False,False,S157413097
+326,goleag,Golden Eagle,Aquila chrysaetos,L3134542,Sequoia Riverlands Trust--Dry Creek Preserve,2023-12-29 08:44,2.0,36.4287865,-119.028431,True,False,False,S157436785
+327,goleag,Golden Eagle,Aquila chrysaetos,L28506281,"26245–26261 Yokohl Dr, Exeter US-CA 36.27496, -118.98163",2023-12-29 08:34,4.0,36.274957,-118.981629,True,False,True,S157456100
+328,goleag,Golden Eagle,Aquila chrysaetos,L484321,Turri Road Tidal Ponds,2023-12-29 08:21,1.0,35.3354332,-120.8218378,True,False,False,S157414832
+329,goleag,Golden Eagle,Aquila chrysaetos,L11007630,Oakwild Lane,2023-12-29 08:00,1.0,38.479869,-122.825883,True,False,False,S157427565
+330,goleag,Golden Eagle,Aquila chrysaetos,L1183096,Partrick Rd.,2023-12-29 07:30,2.0,38.3136123,-122.3551869,True,False,False,S157453957
+331,goleag,Golden Eagle,Aquila chrysaetos,L1007328,Browns Valley Rd.,2023-12-28 13:33,1.0,36.7280158,-121.206665,True,False,False,S157362920
+332,goleag,Golden Eagle,Aquila chrysaetos,L28487898,"El Rancho Road, Lompoc, California, US (34.807, -120.54)",2023-12-28 13:32,1.0,34.807382,-120.5398809,True,False,True,S157370644
+333,goleag,Golden Eagle,Aquila chrysaetos,L3508174,Nelson Ave. (no forebay),2023-12-28 12:42,1.0,39.5230653,-121.6395292,True,False,False,S157360142
+334,goleag,Golden Eagle,Aquila chrysaetos,L1220953,Panoche Rd.,2023-12-28 12:18,1.0,36.6821867,-121.208725,True,False,False,S157369550
+335,goleag,Golden Eagle,Aquila chrysaetos,L20317697,Santa Ysabel Nature Center,2023-12-28 12:02,2.0,33.112487,-116.670138,True,False,False,S157344054
+336,goleag,Golden Eagle,Aquila chrysaetos,L510190,Paramount Ranch,2023-12-28 11:42,2.0,34.1161038,-118.756628,True,False,False,S157359420
+337,goleag,Golden Eagle,Aquila chrysaetos,L1446939,Los Padres NF--Upper Rose Lakes,2023-12-28 11:41,2.0,34.5356311,-119.183118,True,False,False,S157360451
+338,goleag,Golden Eagle,Aquila chrysaetos,L741932,Tony Kurz House,2023-12-28 10:48,5.0,36.1102861,-118.8600916,True,False,True,S157361909
+339,goleag,Golden Eagle,Aquila chrysaetos,L15290101,"Colby Trail, Lower",2023-12-28 10:28,1.0,34.1534728,-117.8456855,True,False,False,S157334726
+340,goleag,Golden Eagle,Aquila chrysaetos,L28485574,"6868–6894 Panoche Rd, Paicines US-CA 36.66779, -121.17558",2023-12-28 10:11,1.0,36.667791,-121.175581,True,False,True,S157358137
+341,goleag,Golden Eagle,Aquila chrysaetos,L3175119,San Juan/Shell Creek Road,2023-12-28 09:35,1.0,35.6033925,-120.3298069,True,False,False,S157365989
+342,goleag,Golden Eagle,Aquila chrysaetos,L15827067,Santa Rita Ranch Lake,2023-12-28 09:15,1.0,35.5267302,-120.8458948,True,False,True,S157362307
+343,goleag,Golden Eagle,Aquila chrysaetos,L6829203,"3301–3331 Nader Rd, Lincoln US-CA (38.9447,-121.3525)",2023-12-28 08:11,1.0,38.944734,-121.352498,True,False,True,S157335346
+344,goleag,Golden Eagle,Aquila chrysaetos,L905195,Gold Run Yard List,2023-12-28 07:30,1.0,40.3673593,-120.670073,True,False,True,S157532932
+345,goleag,Golden Eagle,Aquila chrysaetos,L20450277,"19256 Purdon Road, Nevada City, California, US (39.316, -121.039)",2023-12-28 07:24,2.0,39.3155997,-121.0390915,True,False,True,S157342700
+346,goleag,Golden Eagle,Aquila chrysaetos,L28468532,"2360 Day Rd, Gilroy US-CA (37.0424,-121.6354)",2023-12-27 16:27,1.0,37.042351,-121.63543,True,False,True,S157273276
+347,goleag,Golden Eagle,Aquila chrysaetos,L514534,Gorman Post Rd. pond,2023-12-27 14:44,1.0,34.7829326,-118.8055515,True,False,False,S157290568
+348,goleag,Golden Eagle,Aquila chrysaetos,L711851,Diamond Valley Rd. (ALP Co.),2023-12-27 13:29,1.0,38.7836085,-119.7554398,True,False,False,S157283784
+349,goleag,Golden Eagle,Aquila chrysaetos,L8287651,Happy Canyon Rd at Alisos Rd,2023-12-27 12:55,1.0,34.623344,-120.001441,True,False,True,S157270222
+350,goleag,Golden Eagle,Aquila chrysaetos,L28673393,"41569 Bear Creek Rd, Springville US-CA 36.19784, -118.76387",2023-12-27 12:50,2.0,36.197843,-118.763872,True,False,True,S158289704
+351,goleag,Golden Eagle,Aquila chrysaetos,L28467151,"1014–1046 Bear Creek Rd, Briones US-CA 37.96167, -122.20136",2023-12-27 12:23,1.0,37.961669,-122.201359,True,False,True,S157265706
+352,goleag,Golden Eagle,Aquila chrysaetos,L728518,Sequoia NF--Wishon Dr (MTN 208),2023-12-27 11:40,1.0,36.1824101,-118.6893851,True,False,False,S157270020
+353,goleag,Golden Eagle,Aquila chrysaetos,L28471318,Woody Road,2023-12-27 11:24,9.0,35.670994,-118.901937,True,True,True,S157283463
+354,goleag,Golden Eagle,Aquila chrysaetos,L28465252,Kentucky road from Grimm vineyard to gate,2023-12-27 11:04,2.0,34.601318,-120.008896,True,False,True,S157257573
+355,goleag,Golden Eagle,Aquila chrysaetos,L587800,Yokohl Valley Drive (Mtn-296),2023-12-27 10:50,2.0,36.2722342,-118.936615,True,False,False,S157268386
+356,goleag,Golden Eagle,Aquila chrysaetos,L711361,Black Lake,2023-12-27 10:44,2.0,37.8154256,-118.578186,True,False,False,S157261553
+357,goleag,Golden Eagle,Aquila chrysaetos,L28464606,Willms Rd. To Rock River Rd.,2023-12-27 10:43,1.0,37.8133504,-120.6565767,True,False,True,S157254554
+358,goleag,Golden Eagle,Aquila chrysaetos,L1904619,San Lorenzo Seminary,2023-12-27 10:25,1.0,34.6405049,-120.0317777,True,False,False,S157255954
+359,goleag,Golden Eagle,Aquila chrysaetos,L370687,Carmel Valley--Quail Lodge,2023-12-27 09:00,1.0,36.5307797,-121.8560654,True,False,False,S157259518
+360,goleag,Golden Eagle,Aquila chrysaetos,L8667205,Laguna Seca Wetland — Santa Teresa Blvd,2023-12-27 08:31,1.0,37.216979,-121.757312,True,False,True,S157233691
+361,goleag,Golden Eagle,Aquila chrysaetos,L1158296,Tule Lake NWR--Auto Tour and Sump 1B (MOD Co.),2023-12-27 07:36,2.0,41.841189,-121.428443,True,False,False,S157238839
+362,goleag,Golden Eagle,Aquila chrysaetos,L7546842,CBC San Francisco Area 15 - CBC use only,2023-12-27 07:31,1.0,37.6145714,-122.4413717,True,True,True,S157243072
+363,goleag,Golden Eagle,Aquila chrysaetos,L2216219,Santa Lucia Preserve--Penon Peak trail (restricted access),2023-12-27 07:30,2.0,36.4857411,-121.7915583,True,False,False,S157277872
+364,goleag,Golden Eagle,Aquila chrysaetos,L1096412,Tule Lake NWR--Hill Rd. and Sump 1A,2023-12-26 12:20,2.0,41.9060588,-121.5654287,True,False,False,S157203201
+365,goleag,Golden Eagle,Aquila chrysaetos,L17102463,Van Gordon Creek Road,2023-12-26 11:26,1.0,35.601386,-121.1226,True,False,False,S157229821
+366,goleag,Golden Eagle,Aquila chrysaetos,L28444532,"John P. Miller Memorial Highway, Livermore, California, US (37.718, -121.665)",2023-12-26 10:24,2.0,37.7179707,-121.6649743,True,False,True,S157165900
+367,goleag,Golden Eagle,Aquila chrysaetos,L1151456,Butte Valley--general,2023-12-26 10:20,6.0,41.8797864,-121.9619751,True,False,False,S157176860
+368,goleag,Golden Eagle,Aquila chrysaetos,L1507312,"Fort Ord NM--eastern (Creekside Terrace, Boy Scout pond & Mudhen Lake)",2023-12-26 10:18,1.0,36.6148509,-121.6943054,True,False,False,S157181363
+369,goleag,Golden Eagle,Aquila chrysaetos,L10082335,E Louie Rd,2023-12-26 10:00,1.0,41.5902553,-122.4380126,True,False,True,S157188348
+370,goleag,Golden Eagle,Aquila chrysaetos,L759398,Andrew Molera SP--East Molera Trail,2023-12-26 08:34,1.0,36.2953576,-121.8323044,True,False,False,S157186772
+371,goleag,Golden Eagle,Aquila chrysaetos,L842720,Sunol Regional Wilderness--Flag Hill,2023-12-25 14:49,3.0,37.523682,-121.8261051,True,False,False,S157218503
+372,goleag,Golden Eagle,Aquila chrysaetos,L28432191,Highway 1,2023-12-25 13:22,1.0,34.5179561,-120.316631,True,False,True,S157108229
+373,goleag,Golden Eagle,Aquila chrysaetos,L1505998,Fort Ord NM--grasslands,2023-12-25 12:40,1.0,36.6013194,-121.7161528,True,False,False,S157113949
+374,goleag,Golden Eagle,Aquila chrysaetos,L4482169,Santa Ana Valley Rd. (SBT. Co.),2023-12-25 12:17,4.0,36.83762,-121.29411,True,False,False,S157118626
+375,goleag,Golden Eagle,Aquila chrysaetos,L28451780,"CA-62, Whitewater US-CA 33.93257, -116.59866",2023-12-25 12:07,1.0,33.93257,-116.598658,True,False,True,S157197581
+376,goleag,Golden Eagle,Aquila chrysaetos,L28432268,"11154 W Woodbridge Rd, Lodi US-CA 38.15767, -121.44390",2023-12-25 12:07,1.0,38.157672,-121.4439,True,True,True,S157108555
+377,goleag,Golden Eagle,Aquila chrysaetos,L879385,Lake Crowley--marina,2023-12-25 11:40,1.0,37.5817456,-118.7322822,True,False,False,S157126626
+378,goleag,Golden Eagle,Aquila chrysaetos,L28429632,"7231 Cannell Way, Kernville, California, US (35.681, -118.394)Robinson Cove",2023-12-25 11:16,1.0,35.680655,-118.3939517,True,False,True,S157094026
+379,goleag,Golden Eagle,Aquila chrysaetos,L28440460,Dead Pine Tree,2023-12-25 11:03,1.0,35.61825,-121.1506335,True,False,True,S157146776
+380,goleag,Golden Eagle,Aquila chrysaetos,L2622269,Highway 395 North of Big Pine,2023-12-25 10:37,2.0,37.2054488,-118.3230972,True,False,True,S157454999
+381,goleag,Golden Eagle,Aquila chrysaetos,L595189,Carnegie State Vehicle Rec Area,2023-12-25 10:27,1.0,37.6313629,-121.5412331,True,False,False,S157119366
+382,goleag,Golden Eagle,Aquila chrysaetos,L188972,Lost Lake Rec Area (FRE Co.),2023-12-25 10:26,1.0,36.978016,-119.730934,True,False,False,S157109640
+383,goleag,Golden Eagle,Aquila chrysaetos,L4093310,US-California-Gilroy-Mom And Dad's Angelo Ln - 37.019x-121.501,2023-12-24 15:32,1.0,37.0185838,-121.5005983,True,False,True,S157045849
+384,goleag,Golden Eagle,Aquila chrysaetos,L351904,Hearst Ranch Pasture/Hwy 1--restricted access,2023-12-24 15:00,1.0,35.652247,-121.2010775,True,False,False,S157097984
+385,goleag,Golden Eagle,Aquila chrysaetos,L7065096,Crow Canyon Gardens,2023-12-24 13:56,1.0,37.7724702,-121.98825,True,False,False,S157042917
+386,goleag,Golden Eagle,Aquila chrysaetos,L26492438,Reliz Canyon Road,2023-12-24 13:40,1.0,36.22617,-121.279013,True,False,False,S157053480
+387,goleag,Golden Eagle,Aquila chrysaetos,L28402547,"34951 Airline Hwy, Paicines US-CA PRIVATE",2023-12-24 13:02,1.0,36.495762,-121.080384,True,False,True,S157041096
+388,goleag,Golden Eagle,Aquila chrysaetos,L18375438,Almaden Quicksilver Co. Park Webb Cyn trailhead,2023-12-24 13:00,1.0,37.2039106,-121.8632054,True,False,True,S157186748
+389,goleag,Golden Eagle,Aquila chrysaetos,L28421571,"Cabrillo Hwy, Cambria US-CA (35.6044,-121.1338)",2023-12-24 12:44,1.0,35.604389,-121.133807,True,False,True,S157053375
+390,goleag,Golden Eagle,Aquila chrysaetos,L1243308,Cachuma Saddle,2023-12-24 12:33,1.0,34.7255302,-119.9198914,True,False,False,S157046990
+391,goleag,Golden Eagle,Aquila chrysaetos,L21659147,"Home, Paso Robles",2023-12-24 12:08,1.0,35.607093,-120.673731,True,False,True,S157029925
+392,goleag,Golden Eagle,Aquila chrysaetos,L14340670,"Cachuma Lake, Bradbury Dam Overlook",2023-12-24 11:31,1.0,34.580801,-119.978681,True,False,True,S157029159
+393,goleag,Golden Eagle,Aquila chrysaetos,L21879583,Starr Ranch,2023-12-24 11:19,1.0,35.67294,-120.866312,True,False,True,S157030780
+394,goleag,Golden Eagle,Aquila chrysaetos,L9618620,"Crawford Rd.  Giant Sequoia National Monument, Springville US-CA (36.0986,-118.6339)",2023-12-24 10:48,1.0,36.098606,-118.633892,True,False,True,S157047897
+395,goleag,Golden Eagle,Aquila chrysaetos,L594511,Meadow Creek/Monarch Butterfly Preserve,2023-12-24 10:39,1.0,35.1298771,-120.6328654,True,False,False,S157050214
+396,goleag,Golden Eagle,Aquila chrysaetos,L13274161,Gold Country Ranch--Bald Mountain block (Private),2023-12-24 10:39,1.0,39.1250703,-121.1978134,True,False,True,S157041863
+397,goleag,Golden Eagle,Aquila chrysaetos,L1586916,Putah Creek--fishing access #1,2023-12-24 10:00,1.0,38.5148499,-122.0782516,True,False,False,S157119536
+398,goleag,Golden Eagle,Aquila chrysaetos,L507738,Owens Lake--Ash Creek,2023-12-24 09:03,2.0,36.3723146,-118.0062532,True,False,False,S157014429
+399,goleag,Golden Eagle,Aquila chrysaetos,L15415595,Live Oak trails,2023-12-24 08:45,1.0,34.5671127,-119.8897338,True,False,False,S157039328
+400,goleag,Golden Eagle,Aquila chrysaetos,L28396444,"Greenwood Access - South Fork American River, El Dorado, California, US (38.824, -120.946)",2023-12-24 08:28,1.0,38.8239924,-120.9462286,True,False,True,S157018199
+401,goleag,Golden Eagle,Aquila chrysaetos,L3319140,Dunnigan Hills area,2023-12-24 08:23,1.0,38.7797814,-121.9870377,True,False,True,S157042521
+402,goleag,Golden Eagle,Aquila chrysaetos,L1743640,Disneyland,2023-12-23 16:04,1.0,33.812107,-117.9197016,True,False,False,S156977920
+403,goleag,Golden Eagle,Aquila chrysaetos,L644382,Lava Beds NM--Petroglyph Pt.,2023-12-23 15:19,1.0,41.8451,-121.39111,True,False,False,S156968397
+404,goleag,Golden Eagle,Aquila chrysaetos,L28405992,"Titlow Hill Rd, pullout near gate(40.8702,-123.7515)",2023-12-23 14:02,1.0,40.87019,-123.751502,True,True,True,S156981751
+405,goleag,Golden Eagle,Aquila chrysaetos,L4142473,Oak Slough Trailhead,2023-12-23 13:50,1.0,40.3304828,-122.1897054,True,False,True,S157007387
+406,goleag,Golden Eagle,Aquila chrysaetos,L11469661,"EBMUD Goat Road (Permit required) (37.9866409, -122.2279592)",2023-12-23 13:37,1.0,37.9866409,-122.2279592,True,False,True,S156979209
+407,goleag,Golden Eagle,Aquila chrysaetos,L5564164,"Little Peachtree south (mp 5 to Indian Valley Rd., curves & canyons)",2023-12-23 13:16,5.0,36.0915979,-120.6708263,True,False,False,S156971886
+408,goleag,Golden Eagle,Aquila chrysaetos,L836994,Salmon Creek mouth (SON Co.),2023-12-23 11:49,1.0,38.3547149,-123.0679035,True,False,False,S156952366
+409,goleag,Golden Eagle,Aquila chrysaetos,L809357,Red Rock Rd. (LAS Co.),2023-12-23 11:46,1.0,39.9081561,-120.0079536,True,False,False,S156950566
+410,goleag,Golden Eagle,Aquila chrysaetos,L354402,Panoche Valley--Shotgun Pass,2023-12-23 11:43,1.0,36.6737785,-120.8665713,True,False,False,S157116080
+411,goleag,Golden Eagle,Aquila chrysaetos,L985578,lower Figueroa Mountain Rd. (between SR 154 and Birabent Cyn.),2023-12-23 11:33,2.0,34.737077,-120.0832808,True,False,False,S156984683
+412,goleag,Golden Eagle,Aquila chrysaetos,L686946,Ed Levin CP--Spring Valley area,2023-12-23 11:13,1.0,37.4457324,-121.8471551,True,False,False,S156958013
+413,goleag,Golden Eagle,Aquila chrysaetos,L486804,Rock Creek Rd.--west (CLV Co.),2023-12-23 11:02,2.0,38.0194268,-120.7830048,True,False,False,S156960287
+414,goleag,Golden Eagle,Aquila chrysaetos,L28398266,"I-5 S, Yreka US-CA 41.65067, -122.54595",2023-12-23 10:55,1.0,41.650669,-122.54595,True,False,True,S156945541
+415,goleag,Golden Eagle,Aquila chrysaetos,L28397894,"CA-91 W, Anaheim US-CA 33.85152, -117.81395",2023-12-23 10:34,3.0,33.851521,-117.81395,True,False,True,S156943805
+416,goleag,Golden Eagle,Aquila chrysaetos,L28397447,"White Rock Rd, Raymond US-CA 37.28898, -120.13693",2023-12-23 09:58,1.0,37.28898,-120.136933,True,False,True,S156941754
+417,goleag,Golden Eagle,Aquila chrysaetos,L876076,San Simeon Creek Road,2023-12-23 09:58,1.0,35.6089036,-121.0775634,True,False,False,S156951354
+418,goleag,Golden Eagle,Aquila chrysaetos,L594834,Corral Hollow Rd.--lower,2023-12-23 09:22,1.0,37.656,-121.487,True,False,False,S156939621
+419,goleag,Golden Eagle,Aquila chrysaetos,L295055,San Joaquin Experimental Range (restricted access),2023-12-23 09:14,1.0,37.0973648,-119.7403281,True,False,False,S156949300
+420,goleag,Golden Eagle,Aquila chrysaetos,L242192,Pillar Point Harbor,2023-12-23 09:12,1.0,37.5033407,-122.4819213,True,True,False,S156956689
+421,goleag,Golden Eagle,Aquila chrysaetos,L348675,Cottonwood Creek SWA,2023-12-23 07:28,1.0,40.3908333,-122.2202778,True,False,False,S156974979
+422,goleag,Golden Eagle,Aquila chrysaetos,L17316710,Estelle Mountain Reserve(Restricted Access),2023-12-23 06:50,2.0,33.8177948,-117.4562992,True,False,True,S156976932
+423,goleag,Golden Eagle,Aquila chrysaetos,L28388959,"1697–2153 Picard Rd, Dorris US-CA 41.96670, -121.94874",2023-12-22 15:09,5.0,41.9667,-121.948744,True,False,True,S156899318
+424,goleag,Golden Eagle,Aquila chrysaetos,L3694562,Manzanar National Historic Site,2023-12-22 12:00,1.0,36.7263418,-118.1531439,True,False,False,S156901626
+425,goleag,Golden Eagle,Aquila chrysaetos,L28384228,"I-580 E, Livermore US-CA 37.72689, -121.63661",2023-12-22 11:51,1.0,37.72689,-121.636607,True,False,True,S156876656
+426,goleag,Golden Eagle,Aquila chrysaetos,L4979024,Sacramento NWR--Wetlands Walk,2023-12-22 11:18,1.0,39.4303614,-122.1886969,True,False,False,S156875150
+427,goleag,Golden Eagle,Aquila chrysaetos,L683269,North Haiwee Reservoir,2023-12-22 10:55,1.0,36.1970767,-117.9636383,True,False,False,S156872983
+428,goleag,Golden Eagle,Aquila chrysaetos,L594038,Rock River Rd. (TUO Co.),2023-12-22 10:32,2.0,37.8257855,-120.5396748,True,False,False,S156883361
+429,goleag,Golden Eagle,Aquila chrysaetos,L28401214,Rana Creek hike,2023-12-22 10:06,2.0,36.442993,-121.623451,True,False,True,S156958688
+430,goleag,Golden Eagle,Aquila chrysaetos,L384207,Lake San Antonio,2023-12-22 09:05,1.0,35.8637349,-120.9920883,True,False,False,S156896292
+431,goleag,Golden Eagle,Aquila chrysaetos,L390392,Mines Rd. (ALA Co.),2023-12-22 07:35,1.0,37.587895,-121.6074071,True,False,False,S156878243
+432,goleag,Golden Eagle,Aquila chrysaetos,L17589013,Salt Creek,2023-12-22 06:30,1.0,32.970178,-116.45157,True,False,True,S156897119
+433,goleag,Golden Eagle,Aquila chrysaetos,L28374854,Byers Pass Road,2023-12-21 12:38,4.0,40.361556,-120.488328,True,False,True,S156826993
+434,goleag,Golden Eagle,Aquila chrysaetos,L1352290,White Rock Rd. at Westfall Rd. (MRP Co.),2023-12-21 12:09,1.0,37.335568,-120.0389355,True,False,False,S156829180
+435,goleag,Golden Eagle,Aquila chrysaetos,L1024371,Sutter Buttes--North Butte Area,2023-12-21 08:44,1.0,39.2322531,-121.7897987,True,False,False,S156828784
+436,goleag,Golden Eagle,Aquila chrysaetos,L3223706,Sutter Buttes--Brockman Canyon,2023-12-21 08:31,1.0,39.2014812,-121.8372095,True,False,False,S156832712
+437,goleag,Golden Eagle,Aquila chrysaetos,L4544954,Horr Rd.,2023-12-20 15:46,1.0,41.0978849,-121.482439,True,False,False,S156772982
+438,goleag,Golden Eagle,Aquila chrysaetos,L383124,American Canyon wetlands,2023-12-20 13:46,1.0,38.1809642,-122.2780144,True,False,True,S156770609
+439,goleag,Golden Eagle,Aquila chrysaetos,L19945187,San Felipe Valley Wildlife Area--north,2023-12-20 13:08,1.0,33.160219,-116.554171,True,False,False,S156770497
+440,goleag,Golden Eagle,Aquila chrysaetos,L21031547,"S of Steward Ln, just, W of Owens River",2023-12-20 12:50,1.0,37.1446969,-118.2544039,True,False,True,S156778940
+441,goleag,Golden Eagle,Aquila chrysaetos,L8590291,Armstrong Rd,2023-12-20 11:25,2.0,37.838283,-121.636849,True,False,False,S156782849
+442,goleag,Golden Eagle,Aquila chrysaetos,L16536041,"California Living Museum, Kern County Park",2023-12-20 11:15,1.0,35.4331221,-118.8842626,True,False,False,S156832329
+443,goleag,Golden Eagle,Aquila chrysaetos,L17108866,Vasco Caves Corp Yard (restricted Access),2023-12-20 08:03,2.0,37.8381825,-121.6553793,True,False,True,S156776752
+444,goleag,Golden Eagle,Aquila chrysaetos,L6539325,"1504 Smokey Mountain Drive, Petaluma, California, US (38.259, -122.635)",2023-12-19 13:14,1.0,38.2593692,-122.6347555,True,False,True,S156869925
+445,goleag,Golden Eagle,Aquila chrysaetos,L6760309,Crocker Springs Road,2023-12-19 12:40,2.0,35.2313882,-119.6469927,True,False,False,S156702699
+446,goleag,Golden Eagle,Aquila chrysaetos,L28351221,"Santa Lucia Preserve, Carmel US-CA 36.51960, -121.87081",2023-12-19 12:03,1.0,36.519603,-121.870815,True,False,True,S156700051
+447,goleag,Golden Eagle,Aquila chrysaetos,L623258,Nicasio Reservoir,2023-12-19 10:06,1.0,38.0875536,-122.7323055,True,False,False,S156692771
+448,goleag,Golden Eagle,Aquila chrysaetos,L2136276,Hudson Ranch Road,2023-12-19 09:52,2.0,34.8982164,-119.3659278,True,False,False,S156723663
+449,goleag,Golden Eagle,Aquila chrysaetos,L895501,Battle Creek Meadows,2023-12-19 09:48,1.0,40.34432,-121.5905857,True,False,False,S156719021
+450,goleag,Golden Eagle,Aquila chrysaetos,L847554,White Rock Rd.--north of Le Grand Rd. (MER Co.),2023-12-19 02:30,1.0,37.25,-120.19807,True,False,False,S156712749
+451,goleag,Golden Eagle,Aquila chrysaetos,L9843606,USA-CA-SDC-Warner Springs Football Field,2023-12-18 15:30,1.0,33.276003,-116.645194,True,False,True,S156740544
+452,goleag,Golden Eagle,Aquila chrysaetos,L650670,American Canyon Wetlands,2023-12-18 10:50,1.0,38.1801109,-122.2731047,True,False,False,S156639784
+453,goleag,Golden Eagle,Aquila chrysaetos,L1445311,Vasquez Rocks County Park,2023-12-18 10:11,2.0,34.4806219,-118.3198886,True,False,False,S156649471
+454,goleag,Golden Eagle,Aquila chrysaetos,L923084,Santa Ysabel OSP--east,2023-12-18 08:50,1.0,33.1227252,-116.669013,True,False,False,S156643616
+455,goleag,Golden Eagle,Aquila chrysaetos,L28354496,"94585, Suisun City US-CA (38.2293,-122.0360)",2023-12-18 07:49,1.0,38.229324,-122.035969,True,False,True,S156718588
+456,goleag,Golden Eagle,Aquila chrysaetos,L109462,Lake Henshaw,2023-12-18 06:05,2.0,33.2357226,-116.7491727,True,False,False,S156707678
+457,goleag,Golden Eagle,Aquila chrysaetos,L21978867,Santa Ana Valley Rd.-pomegranate orchard,2023-12-17 16:48,2.0,36.8143203,-121.280823,True,False,False,S156901141
+458,goleag,Golden Eagle,Aquila chrysaetos,L5464091,Sierra Vista Open Space upper loop trail,2023-12-17 14:40,1.0,37.4096843,-121.801402,True,False,True,S156589270
+459,goleag,Golden Eagle,Aquila chrysaetos,L8302914,Timm Ranch,2023-12-17 13:55,1.0,38.4531797,-121.9726001,True,False,True,S156596720
+460,goleag,Golden Eagle,Aquila chrysaetos,L28329956,"205–207 Sonora Rd, Moraga US-CA 37.85612, -122.11419",2023-12-17 13:14,1.0,37.856118,-122.114189,True,False,True,S156576241
+461,goleag,Golden Eagle,Aquila chrysaetos,L4990263,Whitmore Hot Springs,2023-12-17 12:17,2.0,37.630226,-118.812084,True,False,True,S156595263
+462,goleag,Golden Eagle,Aquila chrysaetos,L11564186,Jose Higuera Adobe Park,2023-12-17 12:09,2.0,37.458814,-121.896329,True,False,False,S156573893
+463,goleag,Golden Eagle,Aquila chrysaetos,L28360506,"US-97, Dorris US-CA 41.92505, -121.94333",2023-12-17 11:52,2.0,41.925053,-121.943335,True,False,True,S156752081
+464,goleag,Golden Eagle,Aquila chrysaetos,L21842257,Hamilton Ranch,2023-12-17 11:33,1.0,38.543838,-122.015226,True,False,True,S156591531
+465,goleag,Golden Eagle,Aquila chrysaetos,L830439,Calaveras Reservoir (SCL Co.),2023-12-17 10:11,1.0,37.4613697,-121.8186378,True,False,False,S156594937
+466,goleag,Golden Eagle,Aquila chrysaetos,L28333227,Cherry Flat Reservoir (restricted access),2023-12-17 10:00,2.0,37.397985,-121.755195,True,False,True,S156596614
+467,goleag,Golden Eagle,Aquila chrysaetos,L3161941,Warner Valley grasslands--general area,2023-12-17 09:50,1.0,33.2493779,-116.6739303,True,False,False,S156707010
+468,goleag,Golden Eagle,Aquila chrysaetos,L1083831,El Portal vicinity,2023-12-17 09:28,1.0,37.674412,-119.7858667,True,False,False,S156649719
+469,goleag,Golden Eagle,Aquila chrysaetos,L28370709,41.85271_-121.49278,2023-12-17 09:23,1.0,41.85271,-121.49278,True,False,True,S156806320
+470,goleag,Golden Eagle,Aquila chrysaetos,L1288071,Pleasanton Ridge Regional Park--north,2023-12-17 08:41,1.0,37.6570436,-121.9372559,True,False,False,S156579984
+471,goleag,Golden Eagle,Aquila chrysaetos,L28331691,"5106–5204 Wragg Canyon Rd, Napa US-CA 38.44977, -122.15295",2023-12-17 08:03,1.0,38.449771,-122.15295,True,False,True,S156585651
+472,goleag,Golden Eagle,Aquila chrysaetos,L28325231,"Lafayette Moraga Trail, Moraga US-CA 37.82270, -122.13735",2023-12-17 07:48,1.0,37.822699,-122.13735,True,False,True,S156553255
+473,goleag,Golden Eagle,Aquila chrysaetos,L28333149,CBC 2023 - Calaveras Reservoir,2023-12-17 07:00,1.0,37.503771,-121.832355,True,False,True,S156596000
+474,goleag,Golden Eagle,Aquila chrysaetos,L683536,Tejon Ranch--SE,2023-12-17 06:59,5.0,34.8566367,-118.6610985,True,False,False,S156607341
+475,goleag,Golden Eagle,Aquila chrysaetos,L1458006,Marsh Rd.,2023-12-17 06:31,1.0,37.4492587,-121.8022403,True,False,False,S156588554
+476,goleag,Golden Eagle,Aquila chrysaetos,L21841817,English Hills and Cantelow Rds on foot for Putah Creek Christmas Count.,2023-12-17 06:00,1.0,38.417771,-121.999434,True,False,True,S156593236
+477,goleag,Golden Eagle,Aquila chrysaetos,L1002802,Putah Creek--Positas Rd.,2023-12-17 05:45,1.0,38.49745,-122.0349848,True,False,False,S156669629
+478,goleag,Golden Eagle,Aquila chrysaetos,L28354813,"Ridge above Tom’s Point. 94937, Inverness US-CA 38.22781, -122.93550",2023-12-16 14:57,1.0,38.22781,-122.9355,True,False,True,S156720143
+479,goleag,Golden Eagle,Aquila chrysaetos,L28314759,"94937, Inverness US-CA 38.22779, -122.93552",2023-12-16 14:57,1.0,38.227794,-122.935517,True,False,True,S156494220
+480,goleag,Golden Eagle,Aquila chrysaetos,L4149170,Priolo-Martin Park,2023-12-16 14:33,2.0,35.2671718,-120.6992052,True,False,False,S156487110
+481,goleag,Golden Eagle,Aquila chrysaetos,L28325373,"I-280 S, Woodside US-CA before Sand Hill",2023-12-16 13:50,1.0,37.427726,-122.23404,True,True,True,S156553935
+482,goleag,Golden Eagle,Aquila chrysaetos,L941089,Tres Pinos,2023-12-16 13:40,1.0,36.7881507,-121.3164425,True,False,False,S156478481
+483,goleag,Golden Eagle,Aquila chrysaetos,L28315445,"4992–5036 Robinson Creek Rd, Ukiah US-CA 39.08993, -123.26172",2023-12-16 13:37,1.0,39.08993,-123.261715,True,False,True,S156498742
+484,goleag,Golden Eagle,Aquila chrysaetos,L28320572,"6007–6185 Red Hill Rd, Petaluma US-CA (38.1660,-122.6774)",2023-12-16 13:27,2.0,38.16595,-122.677427,True,False,True,S156528218
+485,goleag,Golden Eagle,Aquila chrysaetos,L6281707,Horton Creek Road and Campground,2023-12-16 12:29,2.0,37.3897894,-118.5762761,True,False,False,S156500450
+486,goleag,Golden Eagle,Aquila chrysaetos,L17108095,Madera Canal-Friant to Hwy 41,2023-12-16 12:28,2.0,36.995428,-119.718501,True,False,True,S156487313
+487,goleag,Golden Eagle,Aquila chrysaetos,L554751,Davis Rd.,2023-12-16 12:14,2.0,37.598,-120.596688,True,False,False,S156469952
+488,goleag,Golden Eagle,Aquila chrysaetos,L2467836,Cal Poly--Mt Bishop Road,2023-12-16 12:01,1.0,35.3076539,-120.6777764,True,False,False,S156467483
+489,goleag,Golden Eagle,Aquila chrysaetos,L17140338,"Ben Hur, Silver Bar & Ashworth Rds.",2023-12-16 11:51,1.0,37.4046861,-119.9300887,True,False,True,S156495542
+490,goleag,Golden Eagle,Aquila chrysaetos,L21820757,California 145 (Road To Recreational Area),2023-12-16 11:42,1.0,37.028594,-119.7174401,True,False,True,S156479146
+491,goleag,Golden Eagle,Aquila chrysaetos,L28334432,Upper Walker Creek,2023-12-16 11:37,1.0,38.223023,-122.906818,True,False,True,S156604640
+492,goleag,Golden Eagle,Aquila chrysaetos,L3198725,Lake Rd.--Hwy. 132 to TID canal,2023-12-16 11:09,2.0,37.6340019,-120.5067527,True,False,True,S156470135
+493,goleag,Golden Eagle,Aquila chrysaetos,L1153843,Chileno Valley,2023-12-16 10:10,1.0,38.2132322,-122.8135872,True,False,False,S156495622
+494,goleag,Golden Eagle,Aquila chrysaetos,L21821757,El Rancho San Luisito,2023-12-16 09:54,1.0,35.368073,-120.750447,True,False,True,S156467711
+495,goleag,Golden Eagle,Aquila chrysaetos,L28314407,Spring Creek Ranch,2023-12-16 09:51,1.0,41.105825,-121.495831,True,False,True,S156492022
+496,goleag,Golden Eagle,Aquila chrysaetos,L4398590,Little Morro Creek Road,2023-12-16 09:35,1.0,35.3873006,-120.8244824,True,False,False,S156497856
+497,goleag,Golden Eagle,Aquila chrysaetos,L17147601,Lobitos Ridge,2023-12-16 09:30,1.0,37.409,-122.385631,True,True,True,S156498410
+498,goleag,Golden Eagle,Aquila chrysaetos,L1126085,Indian Wells Canyon,2023-12-16 09:12,1.0,35.6933083,-117.9303896,True,False,False,S156463276
+499,goleag,Golden Eagle,Aquila chrysaetos,L836339,US-CA-Kern--SQF-Kern River--Lower-Mouth,2023-12-16 09:01,2.0,35.4515112,-118.7819481,True,False,True,S156508639
+500,goleag,Golden Eagle,Aquila chrysaetos,L846617,Kern River Parkway Bike Trail--Lake Ming to Hart Park,2023-12-16 08:28,1.0,35.4372466,-118.8959312,True,False,False,S156480570
+501,goleag,Golden Eagle,Aquila chrysaetos,L18943015,Kern River Campground,2023-12-16 08:28,1.0,35.4345365,-118.8785764,True,False,False,S156483325
+502,goleag,Golden Eagle,Aquila chrysaetos,L275399,Mt. Diablo SP--Mitchell Canyon,2023-12-16 08:09,1.0,37.9149001,-121.9479203,True,False,False,S156492628
+503,goleag,Golden Eagle,Aquila chrysaetos,L6572906,Stenner Creek Rd,2023-12-16 07:56,1.0,35.3276376,-120.6714339,True,False,True,S156475247
+504,goleag,Golden Eagle,Aquila chrysaetos,L28314469,Flume - bridge to forebay,2023-12-16 07:54,1.0,36.512156,-118.800356,True,False,True,S156492406
+505,goleag,Golden Eagle,Aquila chrysaetos,L28316731,Sierra valley hwy 49-antelope valley road,2023-12-16 07:53,3.0,39.62578,-120.359359,True,False,True,S156506547
+506,goleag,Golden Eagle,Aquila chrysaetos,L28313425,CBC zone 4 upper area,2023-12-16 07:45,2.0,36.9698268,-119.6240967,True,False,True,S156485385
+507,goleag,Golden Eagle,Aquila chrysaetos,L28312467,"11060–11432 Auberry Rd, Clovis US-CA 36.90164, -119.71548",2023-12-16 07:44,2.0,36.901639,-119.715484,True,False,True,S156480980
+508,goleag,Golden Eagle,Aquila chrysaetos,L353771,Cal Poly--San Luis Obispo,2023-12-16 07:30,2.0,35.3024106,-120.6608403,True,False,False,S156444384
+509,goleag,Golden Eagle,Aquila chrysaetos,L816981,Low Gap Rd.--Low Gap Park to Eagle Rock,2023-12-16 07:25,2.0,39.1598818,-123.2958698,True,False,False,S156564673
+510,goleag,Golden Eagle,Aquila chrysaetos,L817795,"San Lorenzo Valley, Santa Cruz Co, CA",2023-12-16 07:20,1.0,37.0888705,-122.0886612,True,False,True,S157859702
+511,goleag,Golden Eagle,Aquila chrysaetos,L28311557,"Snake Rd, Marshall US-CA 38.23206, -122.91318",2023-12-16 07:19,1.0,38.232057,-122.913175,True,False,True,S156500618
+512,goleag,Golden Eagle,Aquila chrysaetos,L712410,Tejon Ranch--Old Headquarters (restricted access),2023-12-16 06:34,11.0,35.0246547,-118.7460279,True,True,False,S156492734
+513,goleag,Golden Eagle,Aquila chrysaetos,L1361104,Warm Springs Ponds--overlook,2023-12-15 14:06,2.0,39.6298147,-120.3615082,True,False,False,S156398948
+514,goleag,Golden Eagle,Aquila chrysaetos,L28294543,Grandpas house area,2023-12-15 12:55,1.0,40.570904,-122.333055,True,False,True,S156389073
+515,goleag,Golden Eagle,Aquila chrysaetos,L3638125,31000 Airline Highway (Private Residence),2023-12-15 12:31,1.0,36.517398,-121.135525,True,False,True,S156389021
+516,goleag,Golden Eagle,Aquila chrysaetos,L12353244,Delphic Rd. Yard,2023-12-15 12:00,1.0,41.6938007,-122.5638353,True,False,True,S156405738
+517,goleag,Golden Eagle,Aquila chrysaetos,L791702,Pacific Commons Linear Park,2023-12-15 11:57,1.0,37.4951201,-121.9796026,True,False,False,S156400102
+518,goleag,Golden Eagle,Aquila chrysaetos,L28285499,"Cayetano Park, Livermore US-CA 37.70670, -121.79422",2023-12-15 09:42,1.0,37.706698,-121.794217,True,False,True,S156369220
+519,goleag,Golden Eagle,Aquila chrysaetos,L884655,Sunol Regional Wilderness--Maguire Peaks,2023-12-15 09:42,2.0,37.5438966,-121.8332688,True,False,False,S156394406
+520,goleag,Golden Eagle,Aquila chrysaetos,L28296921,"9480 Koopmann Rd, Sunol US-CA 37.61215, -121.87447",2023-12-15 09:04,4.0,37.61215,-121.874475,True,False,True,S156402039
+521,goleag,Golden Eagle,Aquila chrysaetos,L21814234,EAC CBC Section 24 Koopmann Ranch,2023-12-15 09:01,4.0,37.611677,-121.87445,True,False,True,S156398679
+522,goleag,Golden Eagle,Aquila chrysaetos,L28326206,"Vallecitos Ln, Sunol US-CA 37.59467, -121.86572",2023-12-15 08:16,1.0,37.594668,-121.865719,True,False,True,S156557998
+523,goleag,Golden Eagle,Aquila chrysaetos,L3227517,"SF Water Dept., Sunol",2023-12-15 08:05,1.0,37.5858187,-121.885221,True,False,True,S156433112
+524,goleag,Golden Eagle,Aquila chrysaetos,L500410,Sycamore Grove Park,2023-12-15 08:01,1.0,37.6444127,-121.782074,True,False,False,S156394195
+525,goleag,Golden Eagle,Aquila chrysaetos,L28297038,"Sunol Wilderness Regional Preserve, Sunol US-CA 37.51040, -121.82832",2023-12-15 07:54,2.0,37.510405,-121.828319,True,False,True,S156402934
+526,goleag,Golden Eagle,Aquila chrysaetos,L1342147,Sunol Regional Wilderness--Visitor Center area,2023-12-15 07:15,2.0,37.515899,-121.8318051,True,False,False,S156401475
+527,goleag,Golden Eagle,Aquila chrysaetos,L5117340,Nicasio - Lafranchi Ranch,2023-12-14 13:19,2.0,38.0843039,-122.7067441,True,False,True,S156334671
+528,goleag,Golden Eagle,Aquila chrysaetos,L28276646,"101 Cougar Mountain Drive, Petaluma, California, US (38.152, -122.489)",2023-12-14 12:04,1.0,38.1520113,-122.4888825,True,False,True,S156319413
+529,goleag,Golden Eagle,Aquila chrysaetos,L1421670,San Pablo Bay NWR - Reclamation  Rd.,2023-12-14 11:58,1.0,38.1292984,-122.4723909,True,False,False,S156713520
+530,goleag,Golden Eagle,Aquila chrysaetos,L351319,Michigan Bar,2023-12-14 11:26,1.0,38.5016923,-121.0453984,True,False,False,S156691481
+531,goleag,Golden Eagle,Aquila chrysaetos,L17239923,Redwood Landfill (restricted access),2023-12-14 08:30,2.0,38.1649972,-122.5639559,True,False,False,S156360619
