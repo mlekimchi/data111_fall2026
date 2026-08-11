@@ -1,0 +1,88 @@
+Pets,Handedness,Extroversion,Number of textees,Hours of sleep,Sleep position,Pant leg,Piercings,Sweet or Savory
+None,Right,4,1,7.00,On your right side,Right,2,Sweet
+Dog;Cat;Bird,Right,4,2,10.00,On your right side,Right,0,Savory
+Dog;Cat,Right,5,3,8.00,On your right side,Left,2,Savory
+Dog,Right,5,5,7.00,On your right side,Right,0,Sweet
+Dog;Cat;Chicken,Right,4,10 or more,8.00,On your stomach,Left,0,Savory
+Cat;Chickens,Right,4,6,8.00,On your left side,Right,0,Sweet
+Dog,Left,3,6,6.00,On your left side,Left,9,Sweet
+Dog,Right,2,0,7.00,On your right side,Right,0,Savory
+Dog,Left,6,10 or more,7.00,On your right side,Right,0,Sweet
+Dog,Left,3,1,8.00,On your right side,Right,0,Sweet
+Dog,Right,6,2,7.00,On your right side,Right,0,Savory
+Dog,Right,5,5,6.00,On your right side,Left,5,Sweet
+Dog;Cat;more,Left,3,3,6.50,On your back,Left,0,Savory
+"Dog;Cat;Chickens, Tortoises",Right,7,3,8.00,On your back,Right,0,Savory
+Dog,Right,7,5,7.00,On your back,Left,0,Savory
+None,Right,4,4,8.00,On your back,Right,0,Savory
+Dog;Bird;Amphibian,Right,5,5,7.50,On your back,Right,0,Savory
+Dog,Right,3,3,7.00,On your left side,Right,0,Sweet
+Dog,Right,4,1,8.50,On your left side,Right,0,Savory
+Dog,Right,7,2,8.00,On your left side,Left,0,Sweet
+Dog,Right,4,2,6.00,On your stomach,Left,0,Sweet
+Cat,Right,5,3,8.50,On your stomach,Right,0,Sweet
+None,Left,8,7,10.00,On your stomach,Right,4,Savory
+Dog;Bird;Fish,Right,4,2,7.50,On your back,Right,2,Savory
+"Fish;Shrimp, Snail, Crayfish, Spider",Right,3,0,8.00,On your right side,Left,0,Sweet
+Dog;Bunny,Right,8,4,8.00,On your right side,Right,4,Savory
+Cat,Right,4,4,8.00,On your left side,Right,6,Savory
+Dog;Cat;Chickens,Right,3,2,7.00,On your back,Left,2,Sweet
+None,Right,4,8,6.00,On your back,Right,0,Sweet
+Dog;Cat,Right,2,1,8.00,On your back,Right,0,Sweet
+Dog;Cat;Fish;chickens,Right,8,4,7.50,On your stomach,Right,0,Savory
+Fish,Right,4,6,5.70,On your left side,Right,0,Savory
+Dog;Cat,Right,5,3,7.00,On your right side,Right,0,Savory
+Dog;Cat,Right,5,3,7.50,On your back,Left,2,Savory
+Dog,Right,4,3,9.00,On your left side,Left,3,Savory
+Dog,Right,7,3,8.00,On your right side,Left,0,Sweet
+Dog;Cat,Right,8,4,8.00,On your right side,Right,2,Savory
+Dog,Right,7,1,4.00,On your stomach,Left,2,Sweet
+Dog,Right,8,4,6.50,On your right side,Left,3,Savory
+None,Left,6,2,7.00,On your right side,Left,0,Savory
+None,Right,8,5,9.00,On your right side,Left,4,Sweet
+Cat,Right,5,3,7.50,On your back,Right,0,Savory
+Dog;Cat,Left,4,5,8.00,On your left side,Left,0,Savory
+Dog,Right,8,5,7.50,On your left side,Left,0,Savory
+Dog,Right,8,3,6.50,On your left side,Right,0,Sweet
+Dog,Right,4,5,5.00,On your left side,Right,0,Savory
+Cat,Right,3,2,8.00,On your stomach,Left,0,Savory
+Dog;Cat,Right,4,2,8.00,On your back,Left,4,Sweet
+Dog;Cat;Amphibian,Left,7,7,6.00,On your back,Left,0,Sweet
+Dog;Cat,Right,7,4,6.00,On your right side,Right,0,Sweet
+Dog;Cat;Hamster;a snake and a tortoise,Right,8,4,7.00,On your right side,Right,5,Savory
+Dog;Cat,Right,5,6,7.50,On your stomach,Left,7,Sweet
+Dog;Cat,Right,5,3,9.00,On your back,Right,0,Savory
+None,Right,3,3,7.50,On your right side,Right,0,Savory
+Chinchilla,Right,8,5,8.00,On your back,Left,0,Sweet
+Dog;Cat,Right,4,4,7.00,On your left side,Right,0,Savory
+Dog,Left,5,5,8.00,On your stomach,Left,0,Savory
+None,Left,3,7,7.50,On your back,Right,0,Sweet
+None,Right,4,3,8.00,On your stomach,Left,4,Savory
+None,Right,3,3,6.00,On your stomach,Right,0,Savory
+None,Left,5,3,5.50,On your left side,Left,1,Sweet
+Dog;Cat,Right,6,3,6.00,On your back,Right,0,Savory
+None,Right,5,3,6.00,On your right side,Right,0,Savory
+Cat,Right,8,1,7.00,On your back,Left,0,Sweet
+Cat;Bird,Right,8,4,7.50,On your right side,Right,0,Savory
+Cat,Right,4,10 or more,7.00,On your back,Left,2,Savory
+Dog;Cat,Right,7,1,7.00,On your left side,Right,0,Savory
+,Right,7,3,5.50,On your left side,Left,4,Savory
+Dog,Right,7,2,9.00,On your back,Right,0,Savory
+None,Right,3,2,8.50,On your stomach,Right,0,Savory
+Dog;Cat,Right,3,3,7.00,On your right side,Right,1,Savory
+Dog,Right,4,5,8.00,On your back,Right,0,Sweet
+Cat,Right,7,2,8.00,On your left side,Right,0,Savory
+Dog;Cat;Horse,Left,3,3,8.00,On your back,Left,2,Savory
+Dog;Cat,,3,3,6.50,On your right side,Right,2,Sweet
+Cat,Left,7,3,8.00,On your right side,Right,0,Savory
+Dog;Cat,Right,8,6,6.00,On your right side,Right,4,Savory
+None,Right,4,5,7.50,On your left side,Left,1,Sweet
+Cat;Lizard (Leopard Gecko),Right,3,2,8.00,On your stomach,Right,0,Savory
+None,Right,7,2,8.00,On your right side,Right,0,Savory
+Cat,Left,4,4,7.00,On your right side,Left,0,Sweet
+None,Right,5,4,5.00,On your left side,Right,1,Savory
+None,Right,7,2,6.00,On your left side,Right,1,Savory
+Cat,Right,3,3,4.00,On your right side,Right,3,Sweet
+Dog,Right,6,3,9.00,On your back,Right,0,Savory
+None,Right,4,3,8.00,On your right side,Right,0,Sweet
+Dog,Left,5,2,7.00,On your right side,Left,0,Sweet

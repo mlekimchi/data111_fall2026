@@ -1,0 +1,75 @@
+Timestamp,Pets,Handedness,Extroversion,Texts,Hours of Sleep,Sleep Position,Pant Leg,Piercings,Food Preference
+2024/08/26 10:11:55 AM MDT,Dog;Cat;Bunny;Bearded Dragon,Right,4,3,9,On your right side,Right,0,Savory
+2024/08/26 10:18:32 AM MDT,Dog,Right,4,8,8,On your left side,Right,2,Sweet
+2024/08/26 10:52:17 AM MDT,Cat,Right,4,7,7,On your right side,Right,2,Savory
+2024/08/26 10:59:06 AM MDT,Dog,Right,6,0,7,On your left side,Right,0,Savory
+2024/08/26 11:10:06 AM MDT,None,Right,4,5,7.5,On your left side,Right,0,Savory
+2024/08/26 11:24:45 AM MDT,Cat,Left,5,5,8,On your back,Left,0,Sweet
+2024/08/26 11:55:55 AM MDT,Dog;Cat;Hamster;Fish;Lizard and tortoise,Right,6,5,4,On your left side,Left,4,Savory
+2024/08/26 12:13:29 PM MDT,Dog,Right,3,6,7.5,On your right side,Right,2,Sweet
+2024/08/26 12:59:11 PM MDT,Cat,Right,3,6,7.5,On your stomach,Right,0,Savory
+2024/08/26 1:44:20 PM MDT,Cat,Right,5,2,6,On your left side,Left,0,Savory
+2024/08/26 2:08:38 PM MDT,Dog;Cat,Right,8,10,8,On your stomach,Left,6,Sweet
+2024/08/26 3:57:38 PM MDT,Dog,Right,7,8,7.5,On your left side,Right,0,Savory
+2024/08/26 4:29:13 PM MDT,Dog;Cat,Right,4,6,7.7,On your left side,Right,0,Sweet
+2024/08/26 4:52:19 PM MDT,Dog,Right,3,4,6,On your left side,Right,4,Savory
+2024/08/26 5:27:31 PM MDT,Dog;Cat,Right,7,6,7.5,On your right side,Left,4,Sweet
+2024/08/26 6:24:56 PM MDT,Cat,Left,6,7,7,On your left side,Left,5,Savory
+2024/08/26 6:30:55 PM MDT,Dog,Right,3,3,7,On your left side,Right,0,Savory
+2024/08/26 6:35:33 PM MDT,Dog;Cat,Right,7,10,6,On your left side,Left,2,Savory
+2024/08/26 6:55:51 PM MDT,Dog;Cat,Left,3,5,8,On your left side,Right,0,Savory
+2024/08/26 7:23:08 PM MDT,None,Right,5,2,7.5,On your back,Left,0,Savory
+2024/08/26 8:33:31 PM MDT,Dog;Cat,Right,2,2,8,On your back,Right,0,Savory
+2024/08/26 8:43:58 PM MDT,Dog,Right,8,4,8,On your back,Left,0,Sweet
+2024/08/26 9:20:43 PM MDT,Dog,Right,8,10,9,On your right side,Right,12,Savory
+2024/08/26 10:14:35 PM MDT,Cat;Bird;Bunny;turtle and snake ,Right,9,3,2,On your stomach,Right,0,Savory
+2024/08/27 12:38:09 AM MDT,Dog,Right,6,4,7.5,On your right side,Left,1,Savory
+2024/08/27 8:03:21 AM MDT,Cat,Left,2,1,6,On your back,Left,0,Sweet
+2024/08/27 9:25:30 AM MDT,Dog,Right,6,4,6,On your right side,Left,2,Savory
+2024/08/27 10:29:00 AM MDT,Dog;Snake,Right,4,5,7.5,On your stomach,Right,8,Sweet
+2024/08/27 12:16:06 PM MDT,Cat,Right,6,3,7,On your left side,Left,7,Sweet
+2024/08/27 12:30:05 PM MDT,Fish,Right,3,3,7,On your left side,Right,0,Savory
+2024/08/27 12:42:13 PM MDT,Bird,Right,5,2,8,On your left side,Right,0,Sweet
+2024/08/27 1:34:48 PM MDT,Dog;Cat,Right,7,4,7,On your back,Right,0,Sweet
+2024/08/27 3:23:17 PM MDT,Dog,Right,7,3,8,On your right side,Right,8,Savory
+2024/08/27 3:27:06 PM MDT,Dog;Cat,Left,5,7,7,On your left side,Right,6,Savory
+2024/08/27 3:57:26 PM MDT,Dog;Cat;Bird;Hamster;Bunny;Amphibian;Fish,Right,6,2,9,On your stomach,Right,0,Savory
+2024/08/27 4:16:21 PM MDT,Dog;Cat;Turtles ,Right,5,7,6.5,On your back,Left,0,Sweet
+2024/08/27 7:09:15 PM MDT,Dog;Cat,Right,6,3,7.5,On your stomach,Left,2,Sweet
+2024/08/27 7:58:27 PM MDT,Cat,Right,2,1,7,On your back,Right,2,Savory
+2024/08/27 8:18:19 PM MDT,Fish,Right,7,10,7.5,On your left side,Right,2,Savory
+2024/08/27 8:36:31 PM MDT,Cat;rat,Right,4,3,8,On your left side,Right,6,Sweet
+2024/08/27 9:02:53 PM MDT,Dog,Right,4,3,7.5,On your right side,Right,0,Sweet
+2024/08/27 9:41:10 PM MDT,None,Right,6,2,7.5,On your right side,Right,0,Savory
+2024/08/27 10:11:10 PM MDT,Cat,Left,4,3,7,On your right side,Left,0,Savory
+2024/08/28 12:23:45 AM MDT,Dog,Right,7,3,7,On your right side,Left,7,Savory
+2024/08/28 12:04:41 PM MDT,Dog;Cat,Left,6,4,6,On your right side,Left,5,Sweet
+2024/08/28 12:07:10 PM MDT,Dog;Cat,Right,3,2,7,On your left side,Right,0,Savory
+2024/08/28 3:59:35 PM MDT,None,Left,8,6,7.5,On your left side,Right,0,Sweet
+2024/08/28 4:57:37 PM MDT,Dog,Right,5,4,9,On your left side,Left,0,Savory
+2024/08/28 5:05:44 PM MDT,Dog;Cat;Chickens,Right,3,1,8,On your left side,Left,2,Savory
+2024/08/28 6:36:32 PM MDT,None,Right,6,5,5,On your stomach,Right,5,Savory
+2024/08/28 6:47:14 PM MDT,Dog,Right,7,3,7,On your right side,Left,0,Sweet
+2024/08/28 8:25:49 PM MDT,Dog,Right,9,6,6.5,On your right side,Left,8,Savory
+2024/08/28 9:58:10 PM MDT,Dog;Cat,Right,8,5,8.5,On your left side,Left,0,Sweet
+2024/08/28 10:43:54 PM MDT,Dog,Right,9,10,8,On your left side,Right,0,Savory
+2024/08/28 10:53:00 PM MDT,Cat,Right,5,4,6,On your left side,Left,0,Savory
+2024/08/29 7:44:18 AM MDT,Cat,Right,5,5,7,On your right side,Right,0,Savory
+2024/08/29 9:46:21 AM MDT,Dog;Amphibian,Right,7,4,8,On your right side,Right,8,Savory
+2024/08/29 11:33:09 AM MDT,Dog,Right,7,4,7,On your left side,Left,0,Savory
+2024/08/29 1:47:46 PM MDT,Cat;Fish;Snake! ,Right,3,2,6,On your stomach,Left,14,Savory
+2024/08/29 2:04:15 PM MDT,Snake,Right,6,5,6.5,On your right side,Right,2,Savory
+2024/08/29 2:44:27 PM MDT,Dog,Left,3,4,8,On your stomach,Left,0,Sweet
+2024/08/29 5:35:31 PM MDT,Dog;Cat;Fish,Right,4,1,6,On your back,Left,0,Savory
+2024/08/29 10:08:18 PM MDT,Cat,Right,1,0,7.5,On your left side,Right,0,Savory
+2024/08/29 10:56:29 PM MDT,Dog;Cat;Bird,Right,10,7,7,On your back,Right,0,Sweet
+2024/08/30 1:21:37 AM MDT,Dog,Right,8,9,7,On your right side,Right,0,Savory
+2024/08/30 10:08:06 AM MDT,Dog;Cat;Amphibian;Fish,Right,6,2,6.5,On your back,Left,0,Sweet
+2024/08/30 2:32:06 PM MDT,Cat,Right,3,3,6.5,On your left side,Right,0,Savory
+2024/08/30 7:12:40 PM MDT,None,Right,7,3,7,On your left side,Right,0,Savory
+2024/08/30 8:09:14 PM MDT,Dog,Right,5,5,6,On your right side,Right,4,Sweet
+2024/08/30 10:07:00 PM MDT,Cat,Right,2,10,6,On your right side,Left,0,Sweet
+2024/08/31 12:18:33 AM MDT,Dog;Bird,Right,8,3,7,On your right side,Right,0,Savory
+2024/08/31 12:49:20 AM MDT,Cat,Right,3,2,8,On your right side,Left,7,Sweet
+2024/08/31 12:53:56 AM MDT,None,Right,2,3,8,On your stomach,Left,0,Sweet
+2024/09/03 5:10:40 PM MDT,Dog,Right,3,2,8,On your right side,Left,0,Sweet
