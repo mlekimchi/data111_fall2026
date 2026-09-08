@@ -5,7 +5,7 @@ Timestamp,Pets,Handedness,Extroversion,Texts,Hours of Sleep,Sleep Position,Pant 
 8/25/2026 10:29:55,"Dog, Cat",Left,8,6,7,On my right side,Left leg,0,Sweet
 8/25/2026 10:38:04,Cat,Right,8,9,7.9,On my back like a vampire,Right leg,0,Savory
 8/25/2026 11:29:41,Dog,Right,7,4,8.5,On my right side,I don't wear pants,2,Savory
-8/25/2026 12:20:05,Dog,Right,7,10,8.5,On my right side,Right leg,0,Savory
+8/25/2026 12:20:05,Dog,Right,7,10 or more,8.5,On my right side,Right leg,0,Savory
 8/25/2026 14:08:02,"Cat, Bird, Other",Right,4,5,5,On my stomach,Left leg,18,Sweet
 8/26/2026 10:02:55,"Dog, Cat, Bird, Other",Right,5,3,7.5,On my right side,I don't wear pants,0,Sweet
 8/26/2026 10:03:08,Cat,Right,4,6,7.5,On my back like a vampire,Right leg,9,Sweet
